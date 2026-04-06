@@ -31,7 +31,7 @@ EMAIL_TEMPLATE = """
 </head>
 <body>
 <h1>네오배터리 모니터링 알림</h1>
-<div class="timestamp">{{ timestamp }} EST &nbsp;|&nbsp; 총 <span class="count">{{ total }}건</span>의 새로운 콘텐츠</div>
+<div class="timestamp">{{ timestamp }} {{ tz_abbr }} &nbsp;|&nbsp; 총 <span class="count">{{ total }}건</span>의 새로운 콘텐츠</div>
 
 {% if nbm %}
 <div class="section">
@@ -99,7 +99,7 @@ EMAIL_TEMPLATE = """
 """
 
 PLAIN_TEMPLATE = """네오배터리 모니터링 알림
-{{ timestamp }} EST | 총 {{ total }}건
+{{ timestamp }} {{ tz_abbr }} | 총 {{ total }}건
 
 {% if nbm %}[Neo Battery 공식 뉴스 {{ nbm|length }}건]
 {% for item in nbm %}- {{ item.title }}
@@ -159,7 +159,7 @@ def send_notification(
     html_body = env.from_string(EMAIL_TEMPLATE).render(**context)
     plain_body = env.from_string(PLAIN_TEMPLATE).render(**context)
 
-    subject = f"[네오배터리 알림] 새로운 콘텐츠 {total}건 — {timestamp} EST"
+    subject = f"[네오배터리 알림] 새로운 콘텐츠 {total}건 — {timestamp} {tz_abbr}"
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
