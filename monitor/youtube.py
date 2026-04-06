@@ -3,6 +3,8 @@ from datetime import datetime, timedelta, timezone
 
 import requests
 
+from monitor.filter import is_relevant
+
 logger = logging.getLogger(__name__)
 
 YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
@@ -30,8 +32,12 @@ def search_videos(api_key: str, max_results: int = 10) -> list[dict]:
                 seen_video_ids.add(vid)
                 all_items.append(item)
 
-    logger.info("YouTube: found %d unique videos across %d queries", len(all_items), len(QUERIES))
-    return all_items
+    filtered = [item for item in all_items if is_relevant(item["title"], item["description"])]
+    logger.info(
+        "YouTube: %d unique videos fetched, %d passed relevance filter",
+        len(all_items), len(filtered),
+    )
+    return filtered
 
 
 def _search_query(

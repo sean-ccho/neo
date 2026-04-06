@@ -7,7 +7,7 @@ from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
-EMPTY_STATE = {"naver_news": {}, "naver_general": {}, "youtube": {}}
+EMPTY_STATE = {"naver": {}, "youtube": {}, "nbm": {}, "nbm_pages": {}}
 
 
 def load_state(path: str) -> dict:

@@ -4,6 +4,8 @@ from datetime import datetime, timezone
 
 import requests
 
+from monitor.filter import is_relevant
+
 logger = logging.getLogger(__name__)
 
 NAVER_NEWS_RSS = "https://search.naver.com/search.naver?where=rss&query=네오배터리"
@@ -61,8 +63,9 @@ def fetch_feed(url: str, timeout: int = 15) -> list[dict]:
             }
         )
 
-    logger.info("Fetched %d items from %s", len(items), url)
-    return items
+    filtered = [item for item in items if is_relevant(item["title"], item.get("description", ""))]
+    logger.info("Naver: %d items fetched from %s, %d passed relevance filter", len(items), url, len(filtered))
+    return filtered
 
 
 def _text(element: ET.Element, tag: str) -> str:

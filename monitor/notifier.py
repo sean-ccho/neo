@@ -32,10 +32,10 @@ EMAIL_TEMPLATE = """
 <h1>네오배터리 모니터링 알림</h1>
 <div class="timestamp">{{ timestamp }} EST &nbsp;|&nbsp; 총 <span class="count">{{ total }}건</span>의 새로운 콘텐츠</div>
 
-{% if naver_news %}
+{% if nbm %}
 <div class="section">
-  <div class="section-title">📰 Naver 뉴스 ({{ naver_news|length }}건)</div>
-  {% for item in naver_news %}
+  <div class="section-title">🌐 Neo Battery 공식 뉴스 ({{ nbm|length }}건)</div>
+  {% for item in nbm %}
   <div class="item">
     <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
     <div class="meta">{{ item.pub_date }}</div>
@@ -44,10 +44,22 @@ EMAIL_TEMPLATE = """
 </div>
 {% endif %}
 
-{% if naver_general %}
+{% if nbm_pages %}
 <div class="section">
-  <div class="section-title">🔍 Naver 통합검색 ({{ naver_general|length }}건)</div>
-  {% for item in naver_general %}
+  <div class="section-title">⚠️ 공식 웹사이트 변경 감지 ({{ nbm_pages|length }}건)</div>
+  {% for item in nbm_pages %}
+  <div class="item">
+    <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
+    <div class="meta">{{ item.pub_date }}</div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if naver %}
+<div class="section">
+  <div class="section-title">📰 Naver 뉴스 ({{ naver|length }}건)</div>
+  {% for item in naver %}
   <div class="item">
     <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
     <div class="meta">{{ item.pub_date }}</div>
@@ -76,14 +88,19 @@ EMAIL_TEMPLATE = """
 PLAIN_TEMPLATE = """네오배터리 모니터링 알림
 {{ timestamp }} EST | 총 {{ total }}건
 
-{% if naver_news %}[Naver 뉴스 {{ naver_news|length }}건]
-{% for item in naver_news %}- {{ item.title }}
+{% if nbm %}[Neo Battery 공식 뉴스 {{ nbm|length }}건]
+{% for item in nbm %}- {{ item.title }}
   {{ item.link }}
   {{ item.pub_date }}
 {% endfor %}{% endif %}
-{% if naver_general %}[Naver 통합검색 {{ naver_general|length }}건]
-{% for item in naver_general %}- {{ item.title }}
+{% if nbm_pages %}[웹사이트 변경 감지 {{ nbm_pages|length }}건]
+{% for item in nbm_pages %}- {{ item.title }}
   {{ item.link }}
+{% endfor %}{% endif %}
+{% if naver %}[Naver 뉴스 {{ naver|length }}건]
+{% for item in naver %}- {{ item.title }}
+  {{ item.link }}
+  {{ item.pub_date }}
 {% endfor %}{% endif %}
 {% if youtube %}[YouTube {{ youtube|length }}건]
 {% for item in youtube %}- {{ item.title }} ({{ item.channel_title }})
@@ -97,10 +114,11 @@ def send_notification(
     gmail_user: str,
     gmail_password: str,
 ) -> None:
-    naver_news = new_items.get("naver_news", [])
-    naver_general = new_items.get("naver_general", [])
+    naver = new_items.get("naver", [])
+    nbm = new_items.get("nbm", [])
+    nbm_pages = new_items.get("nbm_pages", [])
     youtube = new_items.get("youtube", [])
-    total = len(naver_news) + len(naver_general) + len(youtube)
+    total = len(naver) + len(nbm) + len(nbm_pages) + len(youtube)
 
     from datetime import datetime, timezone, timedelta
     est = timezone(timedelta(hours=-5))  # EST (UTC-5)
@@ -109,8 +127,9 @@ def send_notification(
     context = dict(
         timestamp=timestamp,
         total=total,
-        naver_news=naver_news,
-        naver_general=naver_general,
+        naver=naver,
+        nbm=nbm,
+        nbm_pages=nbm_pages,
         youtube=youtube,
     )
 
