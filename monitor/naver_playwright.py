@@ -1,7 +1,7 @@
 import logging
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
-from monitor.filter import is_relevant
+from monitor.filter import is_relevant, is_within_days
 
 logger = logging.getLogger(__name__)
 
@@ -82,5 +82,6 @@ def fetch_news() -> list[dict]:
         })
 
     filtered = [item for item in items if is_relevant(item["title"], item["description"])]
-    logger.info("Naver playwright: %d articles fetched, %d passed relevance filter", len(items), len(filtered))
+    filtered = [item for item in filtered if is_within_days(item["pub_date"], days=7)]
+    logger.info("Naver playwright: %d articles fetched, %d passed relevance+date filter", len(items), len(filtered))
     return filtered

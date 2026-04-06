@@ -7,6 +7,8 @@ from datetime import datetime, timezone
 import requests
 from bs4 import BeautifulSoup
 
+from monitor.filter import is_within_days
+
 logger = logging.getLogger(__name__)
 
 HEADERS = {
@@ -53,7 +55,8 @@ def fetch_news_releases() -> list[dict]:
             "description": "",
         })
 
-    logger.info("NBM news releases: %d items fetched", len(items))
+    items = [item for item in items if is_within_days(item["pub_date"], days=7)]
+    logger.info("NBM news releases: %d items within 7 days", len(items))
     return items
 
 
@@ -96,7 +99,8 @@ def fetch_media_coverage() -> list[dict]:
             "description": "",
         })
 
-    logger.info("NBM media coverage: %d items fetched", len(items))
+    items = [item for item in items if is_within_days(item["pub_date"], days=7)]
+    logger.info("NBM media coverage: %d items within 7 days", len(items))
     return items
 
 

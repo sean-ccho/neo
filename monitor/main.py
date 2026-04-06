@@ -66,6 +66,13 @@ def main() -> int:
 
     total_new = sum(len(v) for v in new_items.values())
 
+    # Always update seen items and save state (preserves page hash baselines)
+    state.update_seen(seen["naver"], new_items["naver"], "guid")
+    state.update_seen(seen["nbm"], new_items["nbm"], "guid")
+    state.update_seen(seen["youtube"], new_items["youtube"], "video_id")
+    # nbm_pages state is mutated in-place by check_page_changes()
+    state.save_state(seen, str(STATE_PATH))
+
     if total_new == 0:
         logger.info("No new content found.")
         return 0
@@ -78,13 +85,6 @@ def main() -> int:
     except Exception as e:
         logger.error("Failed to send notification email: %s", e)
         return 1
-
-    # Update and save state
-    state.update_seen(seen["naver"], new_items["naver"], "guid")
-    state.update_seen(seen["nbm"], new_items["nbm"], "guid")
-    state.update_seen(seen["youtube"], new_items["youtube"], "video_id")
-    # nbm_pages state is mutated in-place by check_page_changes()
-    state.save_state(seen, str(STATE_PATH))
 
     return 0
 
