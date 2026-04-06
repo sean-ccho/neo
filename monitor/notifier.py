@@ -139,11 +139,14 @@ def send_notification(
     google_news = new_items.get("google_news", [])
     total = len(naver) + len(nbm) + len(nbm_pages) + len(youtube) + len(google_news)
 
-    est = ZoneInfo("America/Toronto")
-    timestamp = datetime.now(est).strftime("%Y-%m-%d %I:%M %p")
+    tz = ZoneInfo("America/Toronto")
+    now = datetime.now(tz)
+    timestamp = now.strftime("%Y-%m-%d %I:%M %p")
+    tz_abbr = now.strftime("%Z")
 
     context = dict(
         timestamp=timestamp,
+        tz_abbr=tz_abbr,
         total=total,
         naver=naver,
         nbm=nbm,
