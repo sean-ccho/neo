@@ -3,7 +3,7 @@ import os
 import sys
 from pathlib import Path
 
-from monitor import naver_playwright, nbm_website, youtube as yt_module, notifier, state
+from monitor import naver_playwright, nbm_website, youtube as yt_module, google_news as gn_module, notifier, state
 
 logging.basicConfig(
     level=logging.INFO,
@@ -28,7 +28,7 @@ def main() -> int:
     # Load persisted state
     seen = state.load_state(str(STATE_PATH))
 
-    new_items: dict[str, list] = {"naver": [], "youtube": [], "nbm": [], "nbm_pages": []}
+    new_items: dict[str, list] = {"naver": [], "youtube": [], "nbm": [], "nbm_pages": [], "google_news": []}
 
     # --- Naver News (Playwright) ---
     try:
@@ -53,6 +53,14 @@ def main() -> int:
     except Exception as e:
         logger.warning("NBM page check failed: %s", e)
 
+    # --- Google News ---
+    try:
+        gn_items = gn_module.fetch_news()
+        new_items["google_news"] = state.find_new_items(gn_items, seen["google_news"], "guid")
+        logger.info("Google News: %d new / %d total", len(new_items["google_news"]), len(gn_items))
+    except Exception as e:
+        logger.warning("Google News fetch failed: %s", e)
+
     # --- YouTube ---
     if youtube_api_key:
         try:
@@ -69,6 +77,7 @@ def main() -> int:
     # Always update seen items and save state (preserves page hash baselines)
     state.update_seen(seen["naver"], new_items["naver"], "guid")
     state.update_seen(seen["nbm"], new_items["nbm"], "guid")
+    state.update_seen(seen["google_news"], new_items["google_news"], "guid")
     state.update_seen(seen["youtube"], new_items["youtube"], "video_id")
     # nbm_pages state is mutated in-place by check_page_changes()
     state.save_state(seen, str(STATE_PATH))

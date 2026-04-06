@@ -1,9 +1,10 @@
 import logging
 import smtplib
 import time
-from datetime import datetime, timezone
+from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from zoneinfo import ZoneInfo
 
 from jinja2 import Environment, BaseLoader
 
@@ -56,6 +57,18 @@ EMAIL_TEMPLATE = """
 </div>
 {% endif %}
 
+{% if google_news %}
+<div class="section">
+  <div class="section-title">🌍 글로벌 뉴스 ({{ google_news|length }}건)</div>
+  {% for item in google_news %}
+  <div class="item">
+    <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
+    <div class="meta">{{ item.pub_date }}</div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
 {% if naver %}
 <div class="section">
   <div class="section-title">📰 Naver 뉴스 ({{ naver|length }}건)</div>
@@ -97,6 +110,11 @@ PLAIN_TEMPLATE = """네오배터리 모니터링 알림
 {% for item in nbm_pages %}- {{ item.title }}
   {{ item.link }}
 {% endfor %}{% endif %}
+{% if google_news %}[글로벌 뉴스 {{ google_news|length }}건]
+{% for item in google_news %}- {{ item.title }}
+  {{ item.link }}
+  {{ item.pub_date }}
+{% endfor %}{% endif %}
 {% if naver %}[Naver 뉴스 {{ naver|length }}건]
 {% for item in naver %}- {{ item.title }}
   {{ item.link }}
@@ -118,10 +136,10 @@ def send_notification(
     nbm = new_items.get("nbm", [])
     nbm_pages = new_items.get("nbm_pages", [])
     youtube = new_items.get("youtube", [])
-    total = len(naver) + len(nbm) + len(nbm_pages) + len(youtube)
+    google_news = new_items.get("google_news", [])
+    total = len(naver) + len(nbm) + len(nbm_pages) + len(youtube) + len(google_news)
 
-    from datetime import datetime, timezone, timedelta
-    est = timezone(timedelta(hours=-5))  # EST (UTC-5)
+    est = ZoneInfo("America/Toronto")
     timestamp = datetime.now(est).strftime("%Y-%m-%d %I:%M %p")
 
     context = dict(
@@ -131,6 +149,7 @@ def send_notification(
         nbm=nbm,
         nbm_pages=nbm_pages,
         youtube=youtube,
+        google_news=google_news,
     )
 
     env = Environment(loader=BaseLoader())

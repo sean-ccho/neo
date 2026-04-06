@@ -5,7 +5,10 @@ from monitor.filter import is_relevant, is_within_days
 
 logger = logging.getLogger(__name__)
 
-SEARCH_URL = "https://search.naver.com/search.naver?where=news&query=네오배터리머티리얼즈&sort=1"
+SEARCH_QUERIES = [
+    "네오배터리머티리얼즈",
+    "네오배터리",
+]
 
 _JS_EXTRACT = """
 () => {
@@ -50,24 +53,34 @@ _JS_EXTRACT = """
 
 
 def fetch_news() -> list[dict]:
+    seen_guids: set[str] = set()
+    all_articles: list[dict] = []
+
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
-            try:
-                page.goto(SEARCH_URL, timeout=30000)
-                page.wait_for_load_state("networkidle", timeout=15000)
-            except PlaywrightTimeoutError:
-                logger.warning("Naver playwright: page load timed out, proceeding with partial content")
+            for query in SEARCH_QUERIES:
+                url = f"https://search.naver.com/search.naver?where=news&query={query}&sort=1"
+                page = browser.new_page()
+                try:
+                    page.goto(url, timeout=30000)
+                    page.wait_for_load_state("networkidle", timeout=15000)
+                except PlaywrightTimeoutError:
+                    logger.warning("Naver playwright: page load timed out for '%s', proceeding with partial content", query)
 
-            articles = page.evaluate(_JS_EXTRACT)
+                for art in page.evaluate(_JS_EXTRACT):
+                    href = art.get("href", "")
+                    if href and href not in seen_guids:
+                        seen_guids.add(href)
+                        all_articles.append(art)
+                page.close()
             browser.close()
     except Exception as e:
         logger.warning("Naver playwright fetch failed: %s", e)
         return []
 
     items = []
-    for art in articles:
+    for art in all_articles:
         href = art.get("href", "")
         title = art.get("title", "")
         date = art.get("date", "")
