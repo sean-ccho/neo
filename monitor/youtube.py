@@ -19,7 +19,7 @@ QUERIES = [
 
 def search_videos(api_key: str, max_results: int = 10) -> list[dict]:
     published_after = (
-        datetime.now(timezone.utc) - timedelta(days=7)
+        datetime.now(timezone.utc) - timedelta(days=14)
     ).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     seen_video_ids: set[str] = set()
