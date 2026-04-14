@@ -8,6 +8,7 @@ from monitor.filter import is_relevant
 logger = logging.getLogger(__name__)
 
 YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
+YOUTUBE_VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
 
 QUERIES = [
     "네오배터리",
@@ -32,12 +33,72 @@ def search_videos(api_key: str, max_results: int = 10) -> list[dict]:
                 seen_video_ids.add(vid)
                 all_items.append(item)
 
-    filtered = [item for item in all_items if is_relevant(item["title"], item["description"])]
+    hydrated = _hydrate_videos(api_key, all_items)
+
+    filtered = []
+    for item in hydrated:
+        haystack = " ".join([
+            item.get("title", ""),
+            item.get("channel_title", ""),
+            item.get("description", ""),
+            " ".join(item.get("tags", []) or []),
+        ])
+        if is_relevant(item["title"], haystack):
+            filtered.append(item)
+
     logger.info(
-        "YouTube: %d unique videos fetched, %d passed relevance filter",
-        len(all_items), len(filtered),
+        "YouTube: %d unique videos fetched, %d hydrated, %d passed relevance filter",
+        len(all_items), len(hydrated), len(filtered),
     )
     return filtered
+
+
+def _hydrate_videos(api_key: str, items: list[dict]) -> list[dict]:
+    """Replace search-snippet description with full description + tags via videos.list."""
+    if not items:
+        return items
+
+    by_id = {item["video_id"]: item for item in items}
+    ids = list(by_id.keys())
+
+    for i in range(0, len(ids), 50):
+        batch = ids[i : i + 50]
+        params = {
+            "part": "snippet",
+            "id": ",".join(batch),
+            "key": api_key,
+        }
+        try:
+            resp = requests.get(YOUTUBE_VIDEOS_URL, params=params, timeout=15)
+        except requests.exceptions.RequestException as e:
+            logger.warning("Network error hydrating YouTube videos: %s", e)
+            continue
+
+        if resp.status_code == 403:
+            data = resp.json()
+            errors = data.get("error", {}).get("errors", [])
+            if any(e.get("reason") == "quotaExceeded" for e in errors):
+                logger.warning("YouTube API quota exceeded during hydrate — leaving remaining items un-hydrated")
+                break
+            logger.warning("YouTube videos.list 403: %s", resp.text[:200])
+            continue
+
+        if not resp.ok:
+            logger.warning("YouTube videos.list error %d", resp.status_code)
+            continue
+
+        data = resp.json()
+        for raw in data.get("items", []):
+            vid = raw.get("id")
+            snippet = raw.get("snippet", {})
+            if not vid or vid not in by_id:
+                continue
+            target = by_id[vid]
+            target["description"] = snippet.get("description", target.get("description", ""))
+            target["tags"] = snippet.get("tags", []) or []
+            target["channel_title"] = snippet.get("channelTitle", target.get("channel_title", ""))
+
+    return list(by_id.values())
 
 
 def _search_query(
