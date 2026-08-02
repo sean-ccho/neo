@@ -1,3 +1,4 @@
+import difflib
 import hashlib
 import html
 import logging
@@ -23,9 +24,11 @@ NEWS_RELEASES_API = "https://neobatterymaterials.com/wp-json/pad-news/v1/release
 MEDIA_COVERAGE_URL = "https://neobatterymaterials.com/investor-relations/media-coverage/"
 
 WATCHED_PAGES = {
-    "Directors & Officers": "https://neobatterymaterials.com/directors-officers-advisors/",
-    "Technology":           "https://neobatterymaterials.com/technology/",
-    "Battery Foundry":      "https://neobatterymaterials.com/battery-foundry/",
+    "Directors & Officers":          "https://neobatterymaterials.com/directors-officers-advisors/",
+    "Technology":                    "https://neobatterymaterials.com/technology/",
+    "Battery Foundry":               "https://neobatterymaterials.com/battery-foundry/",
+    "NBMSiDE Commercialization":     "https://neobatterymaterials.com/nbmside-commercialization-pathway/",
+    "About":                         "https://neobatterymaterials.com/about/",
 }
 
 
@@ -118,7 +121,8 @@ def fetch_new_content() -> list[dict]:
 # Part 2: Page change detection (hash-based)
 # ---------------------------------------------------------------------------
 
-def _page_text_hash(url: str) -> str | None:
+def _extract_page_text(url: str) -> str | None:
+    """페이지에서 동적 노이즈를 제거한 정규화 텍스트를 반환한다."""
     try:
         resp = requests.get(url, headers=HEADERS, timeout=15)
         resp.raise_for_status()
@@ -128,8 +132,14 @@ def _page_text_hash(url: str) -> str | None:
 
     soup = BeautifulSoup(resp.content, "html.parser")
 
-    # Remove scripts, styles, and noscript tags
-    for tag in soup(["script", "style", "noscript"]):
+    # Remove noisy/dynamic elements that change on every request
+    for tag in soup(["script", "style", "noscript", "header", "footer", "nav"]):
+        tag.decompose()
+
+    # Remove cookie consent banners and popups
+    for tag in soup.find_all(True, class_=re.compile(
+        r"(cookie|consent|popup|modal|banner|notice|gdpr|overlay)", re.I
+    )):
         tag.decompose()
 
     # Try to get main content area; fall back to body
@@ -137,34 +147,94 @@ def _page_text_hash(url: str) -> str | None:
     if not content:
         return None
 
-    text = content.get_text(separator=" ")
+    # Line-by-line extraction for diffable output
+    lines = [l.strip() for l in content.get_text(separator="\n").splitlines()]
+    text = "\n".join(l for l in lines if l)
+    # Remove standalone year-like numbers (e.g. copyright year "© 2026")
+    text = re.sub(r"©\s*\d{4}", "", text)
+    # Remove ISO-style timestamps and date strings that auto-update
+    text = re.sub(r"\d{4}-\d{2}-\d{2}[T\s]\d{2}:\d{2}(?::\d{2})?", "", text)
+    return text
+
+
+def _text_to_hash(text: str) -> str:
     normalized = re.sub(r"\s+", " ", text).strip()
     return hashlib.sha256(normalized.encode("utf-8")).hexdigest()
+
+
+def _build_diff_html(old_text: str, new_text: str, max_lines: int = 60) -> str:
+    """두 텍스트의 diff를 HTML 형식으로 반환한다."""
+    old_lines = old_text.splitlines()
+    new_lines = new_text.splitlines()
+    diff = list(difflib.unified_diff(old_lines, new_lines, lineterm="", n=2))
+
+    if not diff:
+        return ""
+
+    # 너무 길면 잘라냄
+    if len(diff) > max_lines:
+        diff = diff[:max_lines]
+        diff.append(f"... (이하 {len(diff) - max_lines}줄 생략)")
+
+    rows = []
+    for line in diff:
+        if line.startswith("---") or line.startswith("+++"):
+            continue
+        if line.startswith("-"):
+            rows.append(
+                f'<tr><td style="background:#ffeef0;color:#b31d28;padding:2px 8px;'
+                f'font-family:monospace;font-size:12px;white-space:pre-wrap;">'
+                f'− {html.escape(line[1:])}</td></tr>'
+            )
+        elif line.startswith("+"):
+            rows.append(
+                f'<tr><td style="background:#e6ffed;color:#22863a;padding:2px 8px;'
+                f'font-family:monospace;font-size:12px;white-space:pre-wrap;">'
+                f'+ {html.escape(line[1:])}</td></tr>'
+            )
+        elif line.startswith("@@"):
+            rows.append(
+                f'<tr><td style="background:#f1f8ff;color:#0366d6;padding:2px 8px;'
+                f'font-family:monospace;font-size:11px;">{html.escape(line)}</td></tr>'
+            )
+        else:
+            rows.append(
+                f'<tr><td style="padding:2px 8px;font-family:monospace;font-size:12px;'
+                f'white-space:pre-wrap;color:#555;">{html.escape(line)}</td></tr>'
+            )
+
+    if not rows:
+        return ""
+    return '<table style="width:100%;border-collapse:collapse;border:1px solid #ddd;border-radius:4px;overflow:hidden;">' + "".join(rows) + "</table>"
 
 
 def check_page_changes(seen_hashes: dict) -> list[dict]:
     """
     Compare current page hashes against stored hashes.
     On first run (url not in seen_hashes), stores the baseline — no alert.
-    Returns list of changed pages (same dict shape as news items).
+    Returns list of changed pages with diff_html field for email rendering.
     Mutates seen_hashes in-place so caller can persist the updated state.
     """
     changed = []
     now = datetime.now(timezone.utc).isoformat()
 
     for name, url in WATCHED_PAGES.items():
-        current_hash = _page_text_hash(url)
-        if current_hash is None:
+        current_text = _extract_page_text(url)
+        if current_text is None:
             continue
 
+        current_hash = _text_to_hash(current_text)
         stored = seen_hashes.get(url)
+
         if stored is None:
             # First run: store baseline, no alert
-            seen_hashes[url] = {"hash": current_hash, "first_seen": now}
+            seen_hashes[url] = {"hash": current_hash, "text": current_text, "first_seen": now}
             logger.info("NBM page baseline stored: %s", name)
         elif stored["hash"] != current_hash:
-            # Content changed
-            seen_hashes[url] = {"hash": current_hash, "first_seen": now}
+            # Content changed — build diff
+            old_text = stored.get("text", "")
+            diff_html = _build_diff_html(old_text, current_text)
+            seen_hashes[url] = {"hash": current_hash, "text": current_text, "first_seen": now}
             logger.info("NBM page changed: %s", name)
             changed.append({
                 "guid": url,
@@ -172,6 +242,7 @@ def check_page_changes(seen_hashes: dict) -> list[dict]:
                 "link": url,
                 "pub_date": now[:10],
                 "description": "",
+                "diff_html": diff_html,
             })
         else:
             logger.info("NBM page unchanged: %s", name)

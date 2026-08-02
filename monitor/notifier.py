@@ -52,6 +52,14 @@ EMAIL_TEMPLATE = """
   <div class="item">
     <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
     <div class="meta">{{ item.pub_date }}</div>
+    {% if item.diff_html %}
+    <div style="margin-top:10px;">
+      <div style="font-size:12px;font-weight:600;color:#555;margin-bottom:4px;">📋 변경 내용 (빨강: 삭제 / 초록: 추가)</div>
+      {{ item.diff_html | safe }}
+    </div>
+    {% else %}
+    <div class="meta" style="margin-top:6px;">※ 이전 스냅샷 없음 — 다음 변경부터 diff가 표시됩니다.</div>
+    {% endif %}
   </div>
   {% endfor %}
 </div>
