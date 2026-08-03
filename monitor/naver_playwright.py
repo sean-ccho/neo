@@ -28,7 +28,7 @@ _JS_EXTRACT = """
 
         if (!href || seen.has(href)) continue;
         if (!title || title.length < 10) continue;
-        if (href === '#' || href.includes('naver.com') || href.includes('keep.')) continue;
+        if (href === '#' || href.includes('n.news.naver.com') || href.includes('search.naver.com') || href.includes('keep.')) continue;
         seen.add(href);
 
         // Walk up to find a container that has a date span

@@ -13,6 +13,7 @@ BASE_URL = "https://news.google.com/rss/search"
 QUERIES = [
     {"q": "neo battery materials", "hl": "en-US", "gl": "US", "ceid": "US:en"},
     {"q": "네오배터리머티리얼즈", "hl": "ko", "gl": "KR", "ceid": "KR:ko"},
+    {"q": "네오 배터리 머티리얼즈", "hl": "ko", "gl": "KR", "ceid": "KR:ko"},
 ]
 
 HEADERS = {
