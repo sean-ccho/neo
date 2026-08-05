@@ -7,6 +7,7 @@ from datetime import datetime, timezone
 
 import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
 from monitor.filter import is_within_days
 
@@ -121,16 +122,47 @@ def fetch_new_content() -> list[dict]:
 # Part 2: Page change detection (hash-based)
 # ---------------------------------------------------------------------------
 
+# Patterns that indicate a Cloudflare / bot-check interstitial page
+_CF_PATTERNS = re.compile(
+    r"(please\s+wait|just\s+a\s+moment|checking\s+your\s+browser|verif(y|ying|ication)|ray\s+id|cloudflare)",
+    re.I,
+)
+
+
 def _extract_page_text(url: str) -> str | None:
-    """페이지에서 동적 노이즈를 제거한 정규화 텍스트를 반환한다."""
+    """Playwright으로 JS 렌더링된 페이지에서 동적 노이즈를 제거한 정규화 텍스트를 반환한다.
+
+    Cloudflare 봇 방지 인터스티셜이 감지되면 None을 반환하여 오탐을 방지한다.
+    """
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.raise_for_status()
-    except requests.exceptions.RequestException as e:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page(
+                extra_http_headers={
+                    "Accept-Language": "en-US,en;q=0.9",
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                }
+            )
+            try:
+                page.goto(url, timeout=30000)
+                page.wait_for_load_state("networkidle", timeout=20000)
+            except PlaywrightTimeoutError:
+                logger.warning("NBM page load timed out (%s), using partial content", url)
+
+            html_content = page.content()
+            page.close()
+            browser.close()
+    except Exception as e:
         logger.warning("NBM page fetch failed (%s): %s", url, e)
         return None
 
-    soup = BeautifulSoup(resp.content, "html.parser")
+    soup = BeautifulSoup(html_content, "html.parser")
+
+    # Detect Cloudflare / bot-check interstitial before processing
+    raw_text_preview = soup.get_text(" ", strip=True)[:500]
+    if _CF_PATTERNS.search(raw_text_preview):
+        logger.warning("NBM page appears to be a bot-check / Cloudflare page (%s) — skipping", url)
+        return None
 
     # Remove noisy/dynamic elements that change on every request
     for tag in soup(["script", "style", "noscript", "header", "footer", "nav"]):
