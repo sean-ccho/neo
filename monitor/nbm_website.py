@@ -124,7 +124,7 @@ def fetch_new_content() -> list[dict]:
 
 # Patterns that indicate a Cloudflare / bot-check interstitial page
 _CF_PATTERNS = re.compile(
-    r"(please\s+wait|just\s+a\s+moment|checking\s+your\s+browser|verif(y|ying|ication)|ray\s+id|cloudflare)",
+    r"(please\s+wait|just\s+a\s+moment|checking\s+your\s+browser|checking\s+the\s+site\s+connection|connection\s+security|verif(y|ying|ication)|ray\s+id|cloudflare)",
     re.I,
 )
 
