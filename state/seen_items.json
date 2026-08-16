@@ -87,6 +87,38 @@
       "pub_date": "3주 전",
       "description": "",
       "first_seen": "2026-04-06T22:30:02.112265+00:00"
+    },
+    "http://www.newsmaker.or.kr/news/articleView.html?idxno=180208": {
+      "guid": "http://www.newsmaker.or.kr/news/articleView.html?idxno=180208",
+      "title": "전북자치도, 김제서 네오배터리머티리얼즈코리아와 893억 배터리 투자협...\n새 창 열림",
+      "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=180208",
+      "pub_date": "1일 전",
+      "description": "",
+      "first_seen": "2026-08-05T22:11:17.344643+00:00"
+    },
+    "https://www.newstnt.com/news/articleView.html?idxno=712861": {
+      "guid": "https://www.newstnt.com/news/articleView.html?idxno=712861",
+      "title": "네오배터리머티리얼즈코리아, 김제에 2공장 구축\n새 창 열림",
+      "link": "https://www.newstnt.com/news/articleView.html?idxno=712861",
+      "pub_date": "1일 전",
+      "description": "",
+      "first_seen": "2026-08-05T22:11:17.344643+00:00"
+    },
+    "http://www.jeollailbo.com/news/articleView.html?idxno=807250": {
+      "guid": "http://www.jeollailbo.com/news/articleView.html?idxno=807250",
+      "title": "전북도, 네오배터리머티리얼즈코리아와 893억 투자 협약.... 첨단 배터리...\n새 창 열림",
+      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=807250",
+      "pub_date": "2일 전",
+      "description": "",
+      "first_seen": "2026-08-05T22:11:17.344643+00:00"
+    },
+    "http://www.ttlnews.com/news/articleView.html?idxno=3131525": {
+      "guid": "http://www.ttlnews.com/news/articleView.html?idxno=3131525",
+      "title": "893억 투자 유치…김제 네오배터리머티리얼즈, 드론 배터리 본격 양산 ...\n새 창 열림",
+      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3131525",
+      "pub_date": "2일 전",
+      "description": "",
+      "first_seen": "2026-08-05T22:11:17.344643+00:00"
     }
   },
   "nbm": {
@@ -265,9 +297,51 @@
       "pub_date": "January 23, 2025",
       "description": "",
       "first_seen": "2026-04-06T22:30:02.112294+00:00"
+    },
+    "https://neobatterymaterials.com/neo-battery-announces-non-brokered-life-offering-of-units/": {
+      "guid": "https://neobatterymaterials.com/neo-battery-announces-non-brokered-life-offering-of-units/",
+      "title": "NEO Battery Announces Non-Brokered LIFE Offering of Units",
+      "link": "https://neobatterymaterials.com/neo-battery-announces-non-brokered-life-offering-of-units/",
+      "pub_date": "August 4, 2026",
+      "description": "",
+      "first_seen": "2026-08-06T03:58:21.617610+00:00"
+    },
+    "https://neobatterymaterials.com/neo-battery-announces-amended-terms-of-non-brokered-life-offering-of-units/": {
+      "guid": "https://neobatterymaterials.com/neo-battery-announces-amended-terms-of-non-brokered-life-offering-of-units/",
+      "title": "NEO Battery Announces Amended Terms of Non-Brokered LIFE Offering of Units",
+      "link": "https://neobatterymaterials.com/neo-battery-announces-amended-terms-of-non-brokered-life-offering-of-units/",
+      "pub_date": "August 7, 2026",
+      "description": "",
+      "first_seen": "2026-08-07T21:37:11.608813+00:00"
     }
   },
-  "nbm_pages": {},
+  "nbm_pages": {
+    "https://neobatterymaterials.com/directors-officers-advisors/": {
+      "hash": "0a7a699a8965df2c5fc3314e539f251c28fa7202af66305ec140354662013674",
+      "text": "neobatterymaterials.com\nChecking the site connection security",
+      "first_seen": "2026-08-16T13:26:57.619300+00:00"
+    },
+    "https://neobatterymaterials.com/technology/": {
+      "hash": "0a7a699a8965df2c5fc3314e539f251c28fa7202af66305ec140354662013674",
+      "text": "neobatterymaterials.com\nChecking the site connection security",
+      "first_seen": "2026-08-16T13:26:57.619300+00:00"
+    },
+    "https://neobatterymaterials.com/battery-foundry/": {
+      "hash": "0a7a699a8965df2c5fc3314e539f251c28fa7202af66305ec140354662013674",
+      "text": "neobatterymaterials.com\nChecking the site connection security",
+      "first_seen": "2026-08-16T13:26:57.619300+00:00"
+    },
+    "https://neobatterymaterials.com/nbmside-commercialization-pathway/": {
+      "hash": "0a7a699a8965df2c5fc3314e539f251c28fa7202af66305ec140354662013674",
+      "text": "neobatterymaterials.com\nChecking the site connection security",
+      "first_seen": "2026-08-16T13:26:57.619300+00:00"
+    },
+    "https://neobatterymaterials.com/about/": {
+      "hash": "0a7a699a8965df2c5fc3314e539f251c28fa7202af66305ec140354662013674",
+      "text": "neobatterymaterials.com\nChecking the site connection security",
+      "first_seen": "2026-08-16T13:26:57.619300+00:00"
+    }
+  },
   "google_news": {
     "CBMiZkFVX3lxTE1abDc3TzE5VjZlSkY3NHJmUDZydG9Ma2RYRWh0ajQybFZadjZBZ0k4QkdVY3YxNElnNUF1czFESnN3MVFTM1BuT2l1b3ljRDU0V2Qwb0JYZV9SWEowWUhtQzREYzd1Zw": {
       "guid": "CBMiZkFVX3lxTE1abDc3TzE5VjZlSkY3NHJmUDZydG9Ma2RYRWh0ajQybFZadjZBZ0k4QkdVY3YxNElnNUF1czFESnN3MVFTM1BuT2l1b3ljRDU0V2Qwb0JYZV9SWEowWUhtQzREYzd1Zw",
@@ -404,6 +478,454 @@
       "pub_date": "2026-07-28T10:20:35+00:00",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNWUV0VXgycl9maDg4UHA3MkVpRTFVNVdpTkFxSjlvVVZFMUV6NE90Y0xFbFBmY2ZmWkVsN1cxaUJubTM0WTlPLTVuVXA1X3drWW9mRmZrU1NiZ3d6UEJRNnlaeER3Q1RFR3pIc2N2RVhDUlZsRDhJUVc3QnJjN3RKYVhyWjFuVFJneHJJZ0ROd1hxQVRicl9oNjBXdFU2MFk3WHlnOVByQVBzTnc2MTFycWVwbjJHaU9PUUFGWHpR?oc=5\" target=\"_blank\">Earnings Flash (NBM.V) NEO Battery Materials Reports Q1 Revenue C$179K</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
       "first_seen": "2026-08-02T22:53:09.673794+00:00"
+    },
+    "CBMiV0FVX3lxTE1UZUIybTNYMmpsOEpkd1NMUXdxbXVjaVQxMXBYLURXWVdHSEF5ZkUyY3lIVjhMd1pTdzVDNFpWYUZpQzlVM2NxU1B1V2tJRnRjRHdzb1Jrb9IBV0FVX3lxTE1UZUIybTNYMmpsOEpkd1NMUXdxbXVjaVQxMXBYLURXWVdHSEF5ZkUyY3lIVjhMd1pTdzVDNFpWYUZpQzlVM2NxU1B1V2tJRnRjRHdzb1Jrbw": {
+      "guid": "CBMiV0FVX3lxTE1UZUIybTNYMmpsOEpkd1NMUXdxbXVjaVQxMXBYLURXWVdHSEF5ZkUyY3lIVjhMd1pTdzVDNFpWYUZpQzlVM2NxU1B1V2tJRnRjRHdzb1Jrb9IBV0FVX3lxTE1UZUIybTNYMmpsOEpkd1NMUXdxbXVjaVQxMXBYLURXWVdHSEF5ZkUyY3lIVjhMd1pTdzVDNFpWYUZpQzlVM2NxU1B1V2tJRnRjRHdzb1Jrbw",
+      "title": "NEO Battery Materials to invest $62 million in Gimje battery hub - Aju Press",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UZUIybTNYMmpsOEpkd1NMUXdxbXVjaVQxMXBYLURXWVdHSEF5ZkUyY3lIVjhMd1pTdzVDNFpWYUZpQzlVM2NxU1B1V2tJRnRjRHdzb1Jrb9IBV0FVX3lxTE1UZUIybTNYMmpsOEpkd1NMUXdxbXVjaVQxMXBYLURXWVdHSEF5ZkUyY3lIVjhMd1pTdzVDNFpWYUZpQzlVM2NxU1B1V2tJRnRjRHdzb1Jrbw?oc=5",
+      "pub_date": "2026-08-04T10:27:38+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UZUIybTNYMmpsOEpkd1NMUXdxbXVjaVQxMXBYLURXWVdHSEF5ZkUyY3lIVjhMd1pTdzVDNFpWYUZpQzlVM2NxU1B1V2tJRnRjRHdzb1Jrb9IBV0FVX3lxTE1UZUIybTNYMmpsOEpkd1NMUXdxbXVjaVQxMXBYLURXWVdHSEF5ZkUyY3lIVjhMd1pTdzVDNFpWYUZpQzlVM2NxU1B1V2tJRnRjRHdzb1Jrbw?oc=5\" target=\"_blank\">NEO Battery Materials to invest $62 million in Gimje battery hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aju Press</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMicEFVX3lxTE5MX0ROSERtUHV6TmZIeHdiaDA1RXdLeVB0LWZudDA5a0s3cGN0dXpGZTItb1N0d0dyY3ViaTNTMm9sZkJxUXRKX2JBYWwwZGM2OFdHbDZELU5EazNsSEVDVGRaVWJKSTZFblo3c1o4VVjSAXBBVV95cUxOTF9ETkhEbVB1ek5mSHh3YmgwNUV3S3lQdC1mbnQwOWtLN3BjdHV6RmUyLW9TdHdHcmN1YmkzUzJvbGZCcVF0Sl9iQWFsMGRjNjhXR2w2RC1ORGszbEhFQ1RkWlViSkk2RW5aN3NaOFVY": {
+      "guid": "CBMicEFVX3lxTE5MX0ROSERtUHV6TmZIeHdiaDA1RXdLeVB0LWZudDA5a0s3cGN0dXpGZTItb1N0d0dyY3ViaTNTMm9sZkJxUXRKX2JBYWwwZGM2OFdHbDZELU5EazNsSEVDVGRaVWJKSTZFblo3c1o4VVjSAXBBVV95cUxOTF9ETkhEbVB1ek5mSHh3YmgwNUV3S3lQdC1mbnQwOWtLN3BjdHV6RmUyLW9TdHdHcmN1YmkzUzJvbGZCcVF0Sl9iQWFsMGRjNjhXR2w2RC1ORGszbEhFQ1RkWlViSkk2RW5aN3NaOFVY",
+      "title": "네오배터리머티리얼즈코리아, 지평선산단에 대규모 생산기지 구축 - 전라일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MX0ROSERtUHV6TmZIeHdiaDA1RXdLeVB0LWZudDA5a0s3cGN0dXpGZTItb1N0d0dyY3ViaTNTMm9sZkJxUXRKX2JBYWwwZGM2OFdHbDZELU5EazNsSEVDVGRaVWJKSTZFblo3c1o4VVjSAXBBVV95cUxOTF9ETkhEbVB1ek5mSHh3YmgwNUV3S3lQdC1mbnQwOWtLN3BjdHV6RmUyLW9TdHdHcmN1YmkzUzJvbGZCcVF0Sl9iQWFsMGRjNjhXR2w2RC1ORGszbEhFQ1RkWlViSkk2RW5aN3NaOFVY?oc=5",
+      "pub_date": "2026-08-04T10:30:07+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5MX0ROSERtUHV6TmZIeHdiaDA1RXdLeVB0LWZudDA5a0s3cGN0dXpGZTItb1N0d0dyY3ViaTNTMm9sZkJxUXRKX2JBYWwwZGM2OFdHbDZELU5EazNsSEVDVGRaVWJKSTZFblo3c1o4VVjSAXBBVV95cUxOTF9ETkhEbVB1ek5mSHh3YmgwNUV3S3lQdC1mbnQwOWtLN3BjdHV6RmUyLW9TdHdHcmN1YmkzUzJvbGZCcVF0Sl9iQWFsMGRjNjhXR2w2RC1ORGszbEhFQ1RkWlViSkk2RW5aN3NaOFVY?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아, 지평선산단에 대규모 생산기지 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전라일보</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiT0FVX3lxTE9WLWV4VXc2ZXFielBPNkpCWUFGTElJdTFFU3VNS0FJUHdjS2lUUXZHVVRDNUtSZEttTDY2RFBRWGllVEtTaXlndUhMbWxCT2c": {
+      "guid": "CBMiT0FVX3lxTE9WLWV4VXc2ZXFielBPNkpCWUFGTElJdTFFU3VNS0FJUHdjS2lUUXZHVVRDNUtSZEttTDY2RFBRWGllVEtTaXlndUhMbWxCT2c",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 규모 투자 협약 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WLWV4VXc2ZXFielBPNkpCWUFGTElJdTFFU3VNS0FJUHdjS2lUUXZHVVRDNUtSZEttTDY2RFBRWGllVEtTaXlndUhMbWxCT2c?oc=5",
+      "pub_date": "2026-08-04T05:52:04+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WLWV4VXc2ZXFielBPNkpCWUFGTElJdTFFU3VNS0FJUHdjS2lUUXZHVVRDNUtSZEttTDY2RFBRWGllVEtTaXlndUhMbWxCT2c?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 규모 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMihgFBVV95cUxNWURkZFdHYTBPc0x6c0xXV2NEWG1seVFERWhZY0ZfTkF3TG83RlNscWFndEhKMS1icEdQUE9OcVBZMi1DMG1BVnlfcDVGaV9PNV8tQ0oyZDBmNkZoQmY1OW1rS1F2dkN2MThfVTdsVm5HZTgzYWFIWklvT0Nad0JBU1dvRFdXZw": {
+      "guid": "CBMihgFBVV95cUxNWURkZFdHYTBPc0x6c0xXV2NEWG1seVFERWhZY0ZfTkF3TG83RlNscWFndEhKMS1icEdQUE9OcVBZMi1DMG1BVnlfcDVGaV9PNV8tQ0oyZDBmNkZoQmY1OW1rS1F2dkN2MThfVTdsVm5HZTgzYWFIWklvT0Nad0JBU1dvRFdXZw",
+      "title": "김제시, 네오배터리머티리얼즈코리아㈜, 김제 지평선산단 투자협약 체결 - 전북도민일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWURkZFdHYTBPc0x6c0xXV2NEWG1seVFERWhZY0ZfTkF3TG83RlNscWFndEhKMS1icEdQUE9OcVBZMi1DMG1BVnlfcDVGaV9PNV8tQ0oyZDBmNkZoQmY1OW1rS1F2dkN2MThfVTdsVm5HZTgzYWFIWklvT0Nad0JBU1dvRFdXZw?oc=5",
+      "pub_date": "2026-08-04T04:55:06+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNWURkZFdHYTBPc0x6c0xXV2NEWG1seVFERWhZY0ZfTkF3TG83RlNscWFndEhKMS1icEdQUE9OcVBZMi1DMG1BVnlfcDVGaV9PNV8tQ0oyZDBmNkZoQmY1OW1rS1F2dkN2MThfVTdsVm5HZTgzYWFIWklvT0Nad0JBU1dvRFdXZw?oc=5\" target=\"_blank\">김제시, 네오배터리머티리얼즈코리아㈜, 김제 지평선산단 투자협약 체결</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북도민일보</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMia0FVX3lxTE5SVzBzZ19tYzQ2c2M4V0YzUVc2VC11ZnozSEJhZndTdms0WFZVOVFuV1Nkb0J2anFJaXZYc3dCM0JYN3FVcEF0T0J0MWJhM2Y5TEtYczRrRFhzSGhxaGRsYVFVRV9HdDBnRmxN": {
+      "guid": "CBMia0FVX3lxTE5SVzBzZ19tYzQ2c2M4V0YzUVc2VC11ZnozSEJhZndTdms0WFZVOVFuV1Nkb0J2anFJaXZYc3dCM0JYN3FVcEF0T0J0MWJhM2Y5TEtYczRrRFhzSGhxaGRsYVFVRV9HdDBnRmxN",
+      "title": "네오배터리머티리얼즈코리아㈜, 김제 지평선산단에 893억 규모 첨단 배터리 생산거점 구축 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVzBzZ19tYzQ2c2M4V0YzUVc2VC11ZnozSEJhZndTdms0WFZVOVFuV1Nkb0J2anFJaXZYc3dCM0JYN3FVcEF0T0J0MWJhM2Y5TEtYczRrRFhzSGhxaGRsYVFVRV9HdDBnRmxN?oc=5",
+      "pub_date": "2026-08-04T07:52:46+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVzBzZ19tYzQ2c2M4V0YzUVc2VC11ZnozSEJhZndTdms0WFZVOVFuV1Nkb0J2anFJaXZYc3dCM0JYN3FVcEF0T0J0MWJhM2Y5TEtYczRrRFhzSGhxaGRsYVFVRV9HdDBnRmxN?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아㈜, 김제 지평선산단에 893억 규모 첨단 배터리 생산거점 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiVEFVX3lxTE1NT2tUQXFwVjE0VUZBSmluMTB0SDVaWVdLV1ZhN2trN1VkaXpUeWplLWlpU05MQnlmVFdyTXBLRnpRS0ViYl9Nb05adWRvTlNBU01XNNIBVEFVX3lxTE1NT2tUQXFwVjE0VUZBSmluMTB0SDVaWVdLV1ZhN2trN1VkaXpUeWplLWlpU05MQnlmVFdyTXBLRnpRS0ViYl9Nb05adWRvTlNBU01XNA": {
+      "guid": "CBMiVEFVX3lxTE1NT2tUQXFwVjE0VUZBSmluMTB0SDVaWVdLV1ZhN2trN1VkaXpUeWplLWlpU05MQnlmVFdyTXBLRnpRS0ViYl9Nb05adWRvTlNBU01XNNIBVEFVX3lxTE1NT2tUQXFwVjE0VUZBSmluMTB0SDVaWVdLV1ZhN2trN1VkaXpUeWplLWlpU05MQnlmVFdyTXBLRnpRS0ViYl9Nb05adWRvTlNBU01XNA",
+      "title": "네오배터리머티리얼즈코리아, 김제에 ‘드론·방산 배터리’ 생산거점 구축 - 세계일보",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT2tUQXFwVjE0VUZBSmluMTB0SDVaWVdLV1ZhN2trN1VkaXpUeWplLWlpU05MQnlmVFdyTXBLRnpRS0ViYl9Nb05adWRvTlNBU01XNNIBVEFVX3lxTE1NT2tUQXFwVjE0VUZBSmluMTB0SDVaWVdLV1ZhN2trN1VkaXpUeWplLWlpU05MQnlmVFdyTXBLRnpRS0ViYl9Nb05adWRvTlNBU01XNA?oc=5",
+      "pub_date": "2026-08-04T06:35:32+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT2tUQXFwVjE0VUZBSmluMTB0SDVaWVdLV1ZhN2trN1VkaXpUeWplLWlpU05MQnlmVFdyTXBLRnpRS0ViYl9Nb05adWRvTlNBU01XNNIBVEFVX3lxTE1NT2tUQXFwVjE0VUZBSmluMTB0SDVaWVdLV1ZhN2trN1VkaXpUeWplLWlpU05MQnlmVFdyTXBLRnpRS0ViYl9Nb05adWRvTlNBU01XNA?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아, 김제에 ‘드론·방산 배터리’ 생산거점 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMia0FVX3lxTE1yQVNRZUdnMEdPVUJLWGNpeFQzNmdGbnhOQU1BNUpaUzJhU2tGc21Cdk9GZzB5OEdiaEdLZ2NmOGVMU0syOVgzQmVoOC1sRTZjUGl2cmFkRWEyS3RUQ1RBU1FNZUloTldqMGpj0gFrQVVfeXFMTXJBU1FlR2cwR09VQktYY2l4VDM2Z0ZueE5BTUE1SlpTMmFTa0ZzbUJ2T0ZnMHk4R2JoR0tnY2Y4ZUxTSzI5WDNCZWg4LWxFNmNQaXZyYWRFYTJLdFRDVEFTUU1lSWhOV2owamM": {
+      "guid": "CBMia0FVX3lxTE1yQVNRZUdnMEdPVUJLWGNpeFQzNmdGbnhOQU1BNUpaUzJhU2tGc21Cdk9GZzB5OEdiaEdLZ2NmOGVMU0syOVgzQmVoOC1sRTZjUGl2cmFkRWEyS3RUQ1RBU1FNZUloTldqMGpj0gFrQVVfeXFMTXJBU1FlR2cwR09VQktYY2l4VDM2Z0ZueE5BTUE1SlpTMmFTa0ZzbUJ2T0ZnMHk4R2JoR0tnY2Y4ZUxTSzI5WDNCZWg4LWxFNmNQaXZyYWRFYTJLdFRDVEFTUU1lSWhOV2owamM",
+      "title": "네오배터리머티리얼즈코리아㈜, 김제 지평선산단에 893억 투자… 전북 유일 드론용 배터리 양산기지 구축 - 전북중앙",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yQVNRZUdnMEdPVUJLWGNpeFQzNmdGbnhOQU1BNUpaUzJhU2tGc21Cdk9GZzB5OEdiaEdLZ2NmOGVMU0syOVgzQmVoOC1sRTZjUGl2cmFkRWEyS3RUQ1RBU1FNZUloTldqMGpj0gFrQVVfeXFMTXJBU1FlR2cwR09VQktYY2l4VDM2Z0ZueE5BTUE1SlpTMmFTa0ZzbUJ2T0ZnMHk4R2JoR0tnY2Y4ZUxTSzI5WDNCZWg4LWxFNmNQaXZyYWRFYTJLdFRDVEFTUU1lSWhOV2owamM?oc=5",
+      "pub_date": "2026-08-04T17:21:23+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1yQVNRZUdnMEdPVUJLWGNpeFQzNmdGbnhOQU1BNUpaUzJhU2tGc21Cdk9GZzB5OEdiaEdLZ2NmOGVMU0syOVgzQmVoOC1sRTZjUGl2cmFkRWEyS3RUQ1RBU1FNZUloTldqMGpj0gFrQVVfeXFMTXJBU1FlR2cwR09VQktYY2l4VDM2Z0ZueE5BTUE1SlpTMmFTa0ZzbUJ2T0ZnMHk4R2JoR0tnY2Y4ZUxTSzI5WDNCZWg4LWxFNmNQaXZyYWRFYTJLdFRDVEFTUU1lSWhOV2owamM?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아㈜, 김제 지평선산단에 893억 투자… 전북 유일 드론용 배터리 양산기지 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북중앙</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMia0FVX3lxTE1oSmlQX0xZWWZfVDl1d1JZeGxfNFMyQk1wRlZ2dTVOZjZTZnhoQmRMUkNVV0Y5M3dNWlNra0EtTjFoX2JISm05Y2JjUnZrMVhHcDFOeFdsWTRQdGJ4RHU0WVRXQTNRbXh1bFRJ": {
+      "guid": "CBMia0FVX3lxTE1oSmlQX0xZWWZfVDl1d1JZeGxfNFMyQk1wRlZ2dTVOZjZTZnhoQmRMUkNVV0Y5M3dNWlNra0EtTjFoX2JISm05Y2JjUnZrMVhHcDFOeFdsWTRQdGJ4RHU0WVRXQTNRbXh1bFRJ",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 원 규모 배터리 투자협약 체결 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oSmlQX0xZWWZfVDl1d1JZeGxfNFMyQk1wRlZ2dTVOZjZTZnhoQmRMUkNVV0Y5M3dNWlNra0EtTjFoX2JISm05Y2JjUnZrMVhHcDFOeFdsWTRQdGJ4RHU0WVRXQTNRbXh1bFRJ?oc=5",
+      "pub_date": "2026-08-04T17:44:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1oSmlQX0xZWWZfVDl1d1JZeGxfNFMyQk1wRlZ2dTVOZjZTZnhoQmRMUkNVV0Y5M3dNWlNra0EtTjFoX2JISm05Y2JjUnZrMVhHcDFOeFdsWTRQdGJ4RHU0WVRXQTNRbXh1bFRJ?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 원 규모 배터리 투자협약 체결 > 뉴스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더코리아</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMieEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVNIBeEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVA": {
+      "guid": "CBMieEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVNIBeEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVA",
+      "title": "전북도-네오배터리머티리얼즈, 고에너지·고출력 배터리 개발 맞손 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVNIBeEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVA?oc=5",
+      "pub_date": "2026-08-04T04:03:23+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVNIBeEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVA?oc=5\" target=\"_blank\">전북도-네오배터리머티리얼즈, 고에너지·고출력 배터리 개발 맞손</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiZkFVX3lxTFBZZmNJLWx6OHRHaUhYWkVVdzV6UllXdGFYVHc5a21teFhnSWw5ekY4TzFydVVHZzlzcDB2eDBQUktoeU9jaEhPUWVBbDEyWDAzTUxIb0l5ZmVjblZfbWdmRmREWDBGdw": {
+      "guid": "CBMiZkFVX3lxTFBZZmNJLWx6OHRHaUhYWkVVdzV6UllXdGFYVHc5a21teFhnSWw5ekY4TzFydVVHZzlzcDB2eDBQUktoeU9jaEhPUWVBbDEyWDAzTUxIb0l5ZmVjblZfbWdmRmREWDBGdw",
+      "title": "전북도, 네오배터리머티리얼즈코리아와 893억 투자협약...김제 배터리 거점 육성 - 전민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZZmNJLWx6OHRHaUhYWkVVdzV6UllXdGFYVHc5a21teFhnSWw5ekY4TzFydVVHZzlzcDB2eDBQUktoeU9jaEhPUWVBbDEyWDAzTUxIb0l5ZmVjblZfbWdmRmREWDBGdw?oc=5",
+      "pub_date": "2026-08-04T06:56:28+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZZmNJLWx6OHRHaUhYWkVVdzV6UllXdGFYVHc5a21teFhnSWw5ekY4TzFydVVHZzlzcDB2eDBQUktoeU9jaEhPUWVBbDEyWDAzTUxIb0l5ZmVjblZfbWdmRmREWDBGdw?oc=5\" target=\"_blank\">전북도, 네오배터리머티리얼즈코리아와 893억 투자협약...김제 배터리 거점 육성</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전민일보</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiakFVX3lxTFBvVkxVTk4yT3JjcnFlRXdCZmg0ZEhuYjU3Yk1JdVJFSWRDUHk5QmVjZ0dZUEJOeDUyZ1Z4UGxqMVRjdEJieGtTdHJ2cjBvaVZYSEtQYmZYRGpMek41a0dCaUc0eVhHUDA0Ync": {
+      "guid": "CBMiakFVX3lxTFBvVkxVTk4yT3JjcnFlRXdCZmg0ZEhuYjU3Yk1JdVJFSWRDUHk5QmVjZ0dZUEJOeDUyZ1Z4UGxqMVRjdEJieGtTdHJ2cjBvaVZYSEtQYmZYRGpMek41a0dCaUc0eVhHUDA0Ync",
+      "title": "네오배터리머티리얼즈코리아㈜, 김제에 893억 원 투자… 드론 배터리 생산거점 구축 - 투데이안",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvVkxVTk4yT3JjcnFlRXdCZmg0ZEhuYjU3Yk1JdVJFSWRDUHk5QmVjZ0dZUEJOeDUyZ1Z4UGxqMVRjdEJieGtTdHJ2cjBvaVZYSEtQYmZYRGpMek41a0dCaUc0eVhHUDA0Ync?oc=5",
+      "pub_date": "2026-08-04T04:19:44+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBvVkxVTk4yT3JjcnFlRXdCZmg0ZEhuYjU3Yk1JdVJFSWRDUHk5QmVjZ0dZUEJOeDUyZ1Z4UGxqMVRjdEJieGtTdHJ2cjBvaVZYSEtQYmZYRGpMek41a0dCaUc0eVhHUDA0Ync?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아㈜, 김제에 893억 원 투자… 드론 배터리 생산거점 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">투데이안</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMipgFBVV95cUxQLUgxOWQ5eEN5Y1JjUlBTdG80Mk12c0lMQ3RtNVk2Qk1GVzQ4dmFneThLME5Dc2EyOVBPRThRbUo2SFk4N1ZUQWNIUkZTa01SUGJldi1MYXd6a2xrWXZaTHVKRmdFdVZnLV9iRjVzLXU2d3l5WjlZSkhDY2V4V1VJbk1NdXJRZ1M3cnpudXdudnpfX3I5UjJQMFRGRDlfNTduU014Z3dB": {
+      "guid": "CBMipgFBVV95cUxQLUgxOWQ5eEN5Y1JjUlBTdG80Mk12c0lMQ3RtNVk2Qk1GVzQ4dmFneThLME5Dc2EyOVBPRThRbUo2SFk4N1ZUQWNIUkZTa01SUGJldi1MYXd6a2xrWXZaTHVKRmdFdVZnLV9iRjVzLXU2d3l5WjlZSkhDY2V4V1VJbk1NdXJRZ1M3cnpudXdudnpfX3I5UjJQMFRGRDlfNTduU014Z3dB",
+      "title": "네오배터리머티리얼즈코리아, 김제에 893억 투자 - 대한지방자치뉴스",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUgxOWQ5eEN5Y1JjUlBTdG80Mk12c0lMQ3RtNVk2Qk1GVzQ4dmFneThLME5Dc2EyOVBPRThRbUo2SFk4N1ZUQWNIUkZTa01SUGJldi1MYXd6a2xrWXZaTHVKRmdFdVZnLV9iRjVzLXU2d3l5WjlZSkhDY2V4V1VJbk1NdXJRZ1M3cnpudXdudnpfX3I5UjJQMFRGRDlfNTduU014Z3dB?oc=5",
+      "pub_date": "2026-08-04T06:39:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUgxOWQ5eEN5Y1JjUlBTdG80Mk12c0lMQ3RtNVk2Qk1GVzQ4dmFneThLME5Dc2EyOVBPRThRbUo2SFk4N1ZUQWNIUkZTa01SUGJldi1MYXd6a2xrWXZaTHVKRmdFdVZnLV9iRjVzLXU2d3l5WjlZSkhDY2V4V1VJbk1NdXJRZ1M3cnpudXdudnpfX3I5UjJQMFRGRDlfNTduU014Z3dB?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아, 김제에 893억 투자</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한지방자치뉴스</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMickFVX3lxTE1GY0JRUDBFczQ1YTZWZlhoRWhlZFdzNmt4SnNCbTBoQjM0aWxtV2lqU2FmX2JxR0hKYl9aZWYzV1k2UHlHMDZMZzBJcGJqa1duYkpoQlluV1JqNWtNSUlvbUZDVDFfR2JFaEotbnhsTTdHUdIBckFVX3lxTE1GY0JRUDBFczQ1YTZWZlhoRWhlZFdzNmt4SnNCbTBoQjM0aWxtV2lqU2FmX2JxR0hKYl9aZWYzV1k2UHlHMDZMZzBJcGJqa1duYkpoQlluV1JqNWtNSUlvbUZDVDFfR2JFaEotbnhsTTdHUQ": {
+      "guid": "CBMickFVX3lxTE1GY0JRUDBFczQ1YTZWZlhoRWhlZFdzNmt4SnNCbTBoQjM0aWxtV2lqU2FmX2JxR0hKYl9aZWYzV1k2UHlHMDZMZzBJcGJqa1duYkpoQlluV1JqNWtNSUlvbUZDVDFfR2JFaEotbnhsTTdHUdIBckFVX3lxTE1GY0JRUDBFczQ1YTZWZlhoRWhlZFdzNmt4SnNCbTBoQjM0aWxtV2lqU2FmX2JxR0hKYl9aZWYzV1k2UHlHMDZMZzBJcGJqa1duYkpoQlluV1JqNWtNSUlvbUZDVDFfR2JFaEotbnhsTTdHUQ",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 - 엔디엔뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GY0JRUDBFczQ1YTZWZlhoRWhlZFdzNmt4SnNCbTBoQjM0aWxtV2lqU2FmX2JxR0hKYl9aZWYzV1k2UHlHMDZMZzBJcGJqa1duYkpoQlluV1JqNWtNSUlvbUZDVDFfR2JFaEotbnhsTTdHUdIBckFVX3lxTE1GY0JRUDBFczQ1YTZWZlhoRWhlZFdzNmt4SnNCbTBoQjM0aWxtV2lqU2FmX2JxR0hKYl9aZWYzV1k2UHlHMDZMZzBJcGJqa1duYkpoQlluV1JqNWtNSUlvbUZDVDFfR2JFaEotbnhsTTdHUQ?oc=5",
+      "pub_date": "2026-08-04T17:27:39+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1GY0JRUDBFczQ1YTZWZlhoRWhlZFdzNmt4SnNCbTBoQjM0aWxtV2lqU2FmX2JxR0hKYl9aZWYzV1k2UHlHMDZMZzBJcGJqa1duYkpoQlluV1JqNWtNSUlvbUZDVDFfR2JFaEotbnhsTTdHUdIBckFVX3lxTE1GY0JRUDBFczQ1YTZWZlhoRWhlZFdzNmt4SnNCbTBoQjM0aWxtV2lqU2FmX2JxR0hKYl9aZWYzV1k2UHlHMDZMZzBJcGJqa1duYkpoQlluV1JqNWtNSUlvbUZDVDFfR2JFaEotbnhsTTdHUQ?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">엔디엔뉴스</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiQEFVX3lxTE5lTTUyTFJ3OHhoQmZDS1p4Y25WczVidHdPVkU4QU5FbTRyamZ3SkFic1dTdllKdTV1MVhNSzJsdTI": {
+      "guid": "CBMiQEFVX3lxTE5lTTUyTFJ3OHhoQmZDS1p4Y25WczVidHdPVkU4QU5FbTRyamZ3SkFic1dTdllKdTV1MVhNSzJsdTI",
+      "title": "네오배터리머티리얼즈코리아㈜, 김제 지평선산단에 893억 원 투자... 드론용 첨단 배터리 생산거점 구축 - 전북금강일보",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5lTTUyTFJ3OHhoQmZDS1p4Y25WczVidHdPVkU4QU5FbTRyamZ3SkFic1dTdllKdTV1MVhNSzJsdTI?oc=5",
+      "pub_date": "2026-08-04T05:38:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE5lTTUyTFJ3OHhoQmZDS1p4Y25WczVidHdPVkU4QU5FbTRyamZ3SkFic1dTdllKdTV1MVhNSzJsdTI?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아㈜, 김제 지평선산단에 893억 원 투자... 드론용 첨단 배터리 생산거점 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북금강일보</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMibEFVX3lxTE4tTW5SNEUyYjVRWmdPZWc4ZzZaQ3ZQMWJlaEloTU9oTV9TV3hfR2pxd3VnNi1haVllcHdFZTlTbk8wZ1U1QlROM3NJdWRyN1J6aWtZVEJsdk90N1ltcTJpV0FjVDJweDQ1eG9LRdIBcEFVX3lxTE9GRGZDTGw2MnBINWtua25leHFzdTQ4UE53ZzUzNFU5VHY1WUV4WEQ0MGRWX3EtbFFOc2RXNlVuT3k4eDJ6YTlIVXUwNi1Ib19wTmFJN1NPRlpxUzYtc2ZFWXVYdmpobFU3U29XaVp6SnE": {
+      "guid": "CBMibEFVX3lxTE4tTW5SNEUyYjVRWmdPZWc4ZzZaQ3ZQMWJlaEloTU9oTV9TV3hfR2pxd3VnNi1haVllcHdFZTlTbk8wZ1U1QlROM3NJdWRyN1J6aWtZVEJsdk90N1ltcTJpV0FjVDJweDQ1eG9LRdIBcEFVX3lxTE9GRGZDTGw2MnBINWtua25leHFzdTQ4UE53ZzUzNFU5VHY1WUV4WEQ0MGRWX3EtbFFOc2RXNlVuT3k4eDJ6YTlIVXUwNi1Ib19wTmFJN1NPRlpxUzYtc2ZFWXVYdmpobFU3U29XaVp6SnE",
+      "title": "전북도, 네오배터리머티리얼즈코리아와 893억 투자 협약.... 첨단 배터리 거점 구축 나선다 - 전라일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tTW5SNEUyYjVRWmdPZWc4ZzZaQ3ZQMWJlaEloTU9oTV9TV3hfR2pxd3VnNi1haVllcHdFZTlTbk8wZ1U1QlROM3NJdWRyN1J6aWtZVEJsdk90N1ltcTJpV0FjVDJweDQ1eG9LRdIBcEFVX3lxTE9GRGZDTGw2MnBINWtua25leHFzdTQ4UE53ZzUzNFU5VHY1WUV4WEQ0MGRWX3EtbFFOc2RXNlVuT3k4eDJ6YTlIVXUwNi1Ib19wTmFJN1NPRlpxUzYtc2ZFWXVYdmpobFU3U29XaVp6SnE?oc=5",
+      "pub_date": "2026-08-04T08:29:38+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4tTW5SNEUyYjVRWmdPZWc4ZzZaQ3ZQMWJlaEloTU9oTV9TV3hfR2pxd3VnNi1haVllcHdFZTlTbk8wZ1U1QlROM3NJdWRyN1J6aWtZVEJsdk90N1ltcTJpV0FjVDJweDQ1eG9LRdIBcEFVX3lxTE9GRGZDTGw2MnBINWtua25leHFzdTQ4UE53ZzUzNFU5VHY1WUV4WEQ0MGRWX3EtbFFOc2RXNlVuT3k4eDJ6YTlIVXUwNi1Ib19wTmFJN1NPRlpxUzYtc2ZFWXVYdmpobFU3U29XaVp6SnE?oc=5\" target=\"_blank\">전북도, 네오배터리머티리얼즈코리아와 893억 투자 협약.... 첨단 배터리 거점 구축 나선다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전라일보</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiakFVX3lxTFBMbDRCX0g4Y2hrVnc2QzNZS0w5RTRwOWFGWXV5ZzZQR05yN0Jlb21qRlNJWFVUVkN5ZE81RmtIVHFpWTU2X3pVTXVaZUE0Q1YzbmFBRzE1MXFwMlN3VENBTzg0LWFtTHhQLUE": {
+      "guid": "CBMiakFVX3lxTFBMbDRCX0g4Y2hrVnc2QzNZS0w5RTRwOWFGWXV5ZzZQR05yN0Jlb21qRlNJWFVUVkN5ZE81RmtIVHFpWTU2X3pVTXVaZUE0Q1YzbmFBRzE1MXFwMlN3VENBTzg0LWFtTHhQLUE",
+      "title": "전북도·김제시, 네오배터리머티리얼즈코리아와 893억원 투자협약 - 투데이안",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMbDRCX0g4Y2hrVnc2QzNZS0w5RTRwOWFGWXV5ZzZQR05yN0Jlb21qRlNJWFVUVkN5ZE81RmtIVHFpWTU2X3pVTXVaZUE0Q1YzbmFBRzE1MXFwMlN3VENBTzg0LWFtTHhQLUE?oc=5",
+      "pub_date": "2026-08-04T04:05:29+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBMbDRCX0g4Y2hrVnc2QzNZS0w5RTRwOWFGWXV5ZzZQR05yN0Jlb21qRlNJWFVUVkN5ZE81RmtIVHFpWTU2X3pVTXVaZUE0Q1YzbmFBRzE1MXFwMlN3VENBTzg0LWFtTHhQLUE?oc=5\" target=\"_blank\">전북도·김제시, 네오배터리머티리얼즈코리아와 893억원 투자협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">투데이안</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiY0FVX3lxTE5Jd2VWR3lvTmt3OWh6RUtadVd3MllxVkk2WDRLLXd4TjF4ckw2ZUZ5ZnR0ekQ0MEdNa2JLeF9LSWZDUFNCY2pBSjgycWs4NFNxWU1zMF9aWEpnZGFBSTMyaXJzbw": {
+      "guid": "CBMiY0FVX3lxTE5Jd2VWR3lvTmt3OWh6RUtadVd3MllxVkk2WDRLLXd4TjF4ckw2ZUZ5ZnR0ekQ0MEdNa2JLeF9LSWZDUFNCY2pBSjgycWs4NFNxWU1zMF9aWEpnZGFBSTMyaXJzbw",
+      "title": "전북도·김제시, 네오배터리머티리얼즈코리아와 893억 투자협약 체결! - 전북소비자저널",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Jd2VWR3lvTmt3OWh6RUtadVd3MllxVkk2WDRLLXd4TjF4ckw2ZUZ5ZnR0ekQ0MEdNa2JLeF9LSWZDUFNCY2pBSjgycWs4NFNxWU1zMF9aWEpnZGFBSTMyaXJzbw?oc=5",
+      "pub_date": "2026-08-04T09:11:16+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Jd2VWR3lvTmt3OWh6RUtadVd3MllxVkk2WDRLLXd4TjF4ckw2ZUZ5ZnR0ekQ0MEdNa2JLeF9LSWZDUFNCY2pBSjgycWs4NFNxWU1zMF9aWEpnZGFBSTMyaXJzbw?oc=5\" target=\"_blank\">전북도·김제시, 네오배터리머티리얼즈코리아와 893억 투자협약 체결!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북소비자저널</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiZkFVX3lxTE5nTHBJQUNfU0JTZmFqanRyNjZ4bXdEMGRzQ0htX2JlaWN1ZUhDRjN6T1VCNkQ4RE5kcjRNRThyREp6WUV1bndGMGFYT0RZQUpURkxNdjY2dXVIaGRuVW9rQ2N4RVo1dw": {
+      "guid": "CBMiZkFVX3lxTE5nTHBJQUNfU0JTZmFqanRyNjZ4bXdEMGRzQ0htX2JlaWN1ZUhDRjN6T1VCNkQ4RE5kcjRNRThyREp6WUV1bndGMGFYT0RZQUpURkxNdjY2dXVIaGRuVW9rQ2N4RVo1dw",
+      "title": "전북도ㆍ김제시ㆍ네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 체결 - 전북엔비전",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nTHBJQUNfU0JTZmFqanRyNjZ4bXdEMGRzQ0htX2JlaWN1ZUhDRjN6T1VCNkQ4RE5kcjRNRThyREp6WUV1bndGMGFYT0RZQUpURkxNdjY2dXVIaGRuVW9rQ2N4RVo1dw?oc=5",
+      "pub_date": "2026-08-04T04:06:03+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nTHBJQUNfU0JTZmFqanRyNjZ4bXdEMGRzQ0htX2JlaWN1ZUhDRjN6T1VCNkQ4RE5kcjRNRThyREp6WUV1bndGMGFYT0RZQUpURkxNdjY2dXVIaGRuVW9rQ2N4RVo1dw?oc=5\" target=\"_blank\">전북도ㆍ김제시ㆍ네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 체결</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북엔비전</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMibEFVX3lxTE0tVkFUYnhEUmxhVFgyaGxpWDgwNzBWcE8tVW1lSDcxbUp6RUFiSG5lMXk0bWZjNHBHa0gxd2YxTHVDaUwxc2Z5Q2J2WUxrWFFCV1dYUlF4X1Q4WTFfVjE2blVhMGNfZ1phQ1QyaQ": {
+      "guid": "CBMibEFVX3lxTE0tVkFUYnhEUmxhVFgyaGxpWDgwNzBWcE8tVW1lSDcxbUp6RUFiSG5lMXk0bWZjNHBHa0gxd2YxTHVDaUwxc2Z5Q2J2WUxrWFFCV1dYUlF4X1Q4WTFfVjE2blVhMGNfZ1phQ1QyaQ",
+      "title": "캐나다 네오배터리머티리얼, 900억 들여 김제에 생산기지 구축 - 생생비즈플러스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tVkFUYnhEUmxhVFgyaGxpWDgwNzBWcE8tVW1lSDcxbUp6RUFiSG5lMXk0bWZjNHBHa0gxd2YxTHVDaUwxc2Z5Q2J2WUxrWFFCV1dYUlF4X1Q4WTFfVjE2blVhMGNfZ1phQ1QyaQ?oc=5",
+      "pub_date": "2026-08-04T01:50:54+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0tVkFUYnhEUmxhVFgyaGxpWDgwNzBWcE8tVW1lSDcxbUp6RUFiSG5lMXk0bWZjNHBHa0gxd2YxTHVDaUwxc2Z5Q2J2WUxrWFFCV1dYUlF4X1Q4WTFfVjE2blVhMGNfZ1phQ1QyaQ?oc=5\" target=\"_blank\">캐나다 네오배터리머티리얼, 900억 들여 김제에 생산기지 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">생생비즈플러스</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMibkFVX3lxTFBubnRhWmZwOHdGVkhuWlVXdzFTaFlZazM5RGtsOTQ5RV9ZaEUxS0FKQlAtRWNHSEw4MFpjX1QtdWFwZHFoVE40R2dhSFQtUTN6Z0hiVmQwdTdRaEhxYlNvdGV3ZzFxQlBZOU9Ldmx3": {
+      "guid": "CBMibkFVX3lxTFBubnRhWmZwOHdGVkhuWlVXdzFTaFlZazM5RGtsOTQ5RV9ZaEUxS0FKQlAtRWNHSEw4MFpjX1QtdWFwZHFoVE40R2dhSFQtUTN6Z0hiVmQwdTdRaEhxYlNvdGV3ZzFxQlBZOU9Ldmx3",
+      "title": "네오배터리머티리얼즈코리아, 김제에 893억 투자…드론 배터리 공장 신설 · 70명 신규 고용 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBubnRhWmZwOHdGVkhuWlVXdzFTaFlZazM5RGtsOTQ5RV9ZaEUxS0FKQlAtRWNHSEw4MFpjX1QtdWFwZHFoVE40R2dhSFQtUTN6Z0hiVmQwdTdRaEhxYlNvdGV3ZzFxQlBZOU9Ldmx3?oc=5",
+      "pub_date": "2026-08-04T04:17:48+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBubnRhWmZwOHdGVkhuWlVXdzFTaFlZazM5RGtsOTQ5RV9ZaEUxS0FKQlAtRWNHSEw4MFpjX1QtdWFwZHFoVE40R2dhSFQtUTN6Z0hiVmQwdTdRaEhxYlNvdGV3ZzFxQlBZOU9Ldmx3?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아, 김제에 893억 투자…드론 배터리 공장 신설 · 70명 신규 고용</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gukjenews.com</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiU0FVX3lxTFB2SFV3d0hfMUhtM1k0QU9pTVNPZkRQaFp3QWIzdlFiRWE0bXRvNjVfVFBHbkRiejRnZkE3OGdINENoQ3pXNkh5T3M0QlpwU3pKbG80": {
+      "guid": "CBMiU0FVX3lxTFB2SFV3d0hfMUhtM1k0QU9pTVNPZkRQaFp3QWIzdlFiRWE0bXRvNjVfVFBHbkRiejRnZkE3OGdINENoQ3pXNkh5T3M0QlpwU3pKbG80",
+      "title": "전북도·김제시, 네오배터리머티리얼즈와 893억 투자협약 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2SFV3d0hfMUhtM1k0QU9pTVNPZkRQaFp3QWIzdlFiRWE0bXRvNjVfVFBHbkRiejRnZkE3OGdINENoQ3pXNkh5T3M0QlpwU3pKbG80?oc=5",
+      "pub_date": "2026-08-04T05:52:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2SFV3d0hfMUhtM1k0QU9pTVNPZkRQaFp3QWIzdlFiRWE0bXRvNjVfVFBHbkRiejRnZkE3OGdINENoQ3pXNkh5T3M0QlpwU3pKbG80?oc=5\" target=\"_blank\">전북도·김제시, 네오배터리머티리얼즈와 893억 투자협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMickFVX3lxTE5tX2szQUZobnduR2d4QW9BdE81Mk1fVU9UeEUzck1VaEZBa2NIdURwZGtsLTNMcld4ZXhzeE1BMDUydndjMnZTZS11N1RzVkN0SmxNa2hab1NydlVvakU5YW5CRXdkTUNQNWRIZ3NXdHJoQQ": {
+      "guid": "CBMickFVX3lxTE5tX2szQUZobnduR2d4QW9BdE81Mk1fVU9UeEUzck1VaEZBa2NIdURwZGtsLTNMcld4ZXhzeE1BMDUydndjMnZTZS11N1RzVkN0SmxNa2hab1NydlVvakU5YW5CRXdkTUNQNWRIZ3NXdHJoQQ",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tX2szQUZobnduR2d4QW9BdE81Mk1fVU9UeEUzck1VaEZBa2NIdURwZGtsLTNMcld4ZXhzeE1BMDUydndjMnZTZS11N1RzVkN0SmxNa2hab1NydlVvakU5YW5CRXdkTUNQNWRIZ3NXdHJoQQ?oc=5",
+      "pub_date": "2026-08-04T07:14:10+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5tX2szQUZobnduR2d4QW9BdE81Mk1fVU9UeEUzck1VaEZBa2NIdURwZGtsLTNMcld4ZXhzeE1BMDUydndjMnZTZS11N1RzVkN0SmxNa2hab1NydlVvakU5YW5CRXdkTUNQNWRIZ3NXdHJoQQ?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">웹이코노미</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiYEFVX3lxTE1XRjR3dVdsNzJnbVI0MWtuV2l6OHZld2ZaY3Y4V2NmQ1NGdlAwclhNYkVWRDNrdlZWX1ZzOThVU01STlVjQ1BTMlhjcXl0a2xCazdZZ3pRZDhodENGODFKdQ": {
+      "guid": "CBMiYEFVX3lxTE1XRjR3dVdsNzJnbVI0MWtuV2l6OHZld2ZaY3Y4V2NmQ1NGdlAwclhNYkVWRDNrdlZWX1ZzOThVU01STlVjQ1BTMlhjcXl0a2xCazdZZ3pRZDhodENGODFKdQ",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 규모 투자 협약 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XRjR3dVdsNzJnbVI0MWtuV2l6OHZld2ZaY3Y4V2NmQ1NGdlAwclhNYkVWRDNrdlZWX1ZzOThVU01STlVjQ1BTMlhjcXl0a2xCazdZZ3pRZDhodENGODFKdQ?oc=5",
+      "pub_date": "2026-08-04T05:51:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XRjR3dVdsNzJnbVI0MWtuV2l6OHZld2ZaY3Y4V2NmQ1NGdlAwclhNYkVWRDNrdlZWX1ZzOThVU01STlVjQ1BTMlhjcXl0a2xCazdZZ3pRZDhodENGODFKdQ?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 규모 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMickFVX3lxTE9EMmlZS3ZvQlVSUWRZaW5EdGw2QzBIcjlQVmNjT25XV0pzSV84V0I4VFNZcDlPcDhoSkRxVk93LWFVc2U1SmE2Y2s4MFlsc0k5TU8zLW1BNTZ4aXBVRUYxTzN6OXJDdjRPM3BUZ3poYlpvUQ": {
+      "guid": "CBMickFVX3lxTE9EMmlZS3ZvQlVSUWRZaW5EdGw2QzBIcjlQVmNjT25XV0pzSV84V0I4VFNZcDlPcDhoSkRxVk93LWFVc2U1SmE2Y2s4MFlsc0k5TU8zLW1BNTZ4aXBVRUYxTzN6OXJDdjRPM3BUZ3poYlpvUQ",
+      "title": "김제시, 네오배터리머티리얼즈코리아와 893억 원 투자협약 체결 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EMmlZS3ZvQlVSUWRZaW5EdGw2QzBIcjlQVmNjT25XV0pzSV84V0I4VFNZcDlPcDhoSkRxVk93LWFVc2U1SmE2Y2s4MFlsc0k5TU8zLW1BNTZ4aXBVRUYxTzN6OXJDdjRPM3BUZ3poYlpvUQ?oc=5",
+      "pub_date": "2026-08-04T06:21:12+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9EMmlZS3ZvQlVSUWRZaW5EdGw2QzBIcjlQVmNjT25XV0pzSV84V0I4VFNZcDlPcDhoSkRxVk93LWFVc2U1SmE2Y2s4MFlsc0k5TU8zLW1BNTZ4aXBVRUYxTzN6OXJDdjRPM3BUZ3poYlpvUQ?oc=5\" target=\"_blank\">김제시, 네오배터리머티리얼즈코리아와 893억 원 투자협약 체결</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">웹이코노미</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMi1gZBVV95cUxPZVVRV3pCMnEwV2JIVnNXUVlGZUV0TGZ0M3g2WUQwSlM0QkhHT3doSE81Smx3LUd6LXRaMlNscEFWck54bzVZc25wd3VlYTNzOTZLNE95Wi1GMWdydHpsaVB6NFlSYk5PZk1TUFVPNzN3VFExbmhmeTVwa29pZ1R6dno4SFAwdHNqamJPV2t4ajV0NU5CWEhaMy10YVdjRGM3Uzh5OWdXaGxTTlNFUE0xUkRyRy1hSHhrZ0NxaGRRLV9MTDJrdVRWNU5IaEE0QjA0NGJ3dXR6N01CQXFOMlZnbVNDNDJUV2lwb3FlQl9LVG1vOGpqVlRETTQ3QW1aLVdvU2JPLUtRaElEemtGYmppeTIxRFZEd2xDTUhSZ2dDb2dvNFltazRLZFQxMWdvMXhIR0IwSDY5THBEYmZWNkFnazdfRENIdllYS2h3SzlVRDNkRzlQT2NjRnFzeW1aQnR2eW9UUHFMcW5YMUNERUp5RzU3d0o2Mld0MGd5Z2hxNlNfTzBKb3N2VzhxYUs5OVFPZF9PZV9mUWNTOEhOYjZaVmFmUUszVE1JdDRyOHRiQ1Fmb1ZVcDJOTVlvNkFkeU40MGpQajV2aXV1MXBGRmQzLTN1eXhsY2NHU0lyN3hxbGhJZ3ZXcG42cFMyemJ5UFVrU2UxcDlkSVNJS0Nhakl4d1AxVVJERGhJTVNLNnZjZ3gyUEdIc0M3Mm9RMGRjOWNnV0NKbzJRdGxqLXNxRGhTMG9SbDd0Z3lZaFNCWGd3SkRsNG9FWkhLakl3UlZyMG1CaVdEYjVQQnNidF9oY291UEsyc2dhZHpxRG1ZT1owakxuczVVbzVKV0x4allXYWRIbG5SMVNGUHRyUDlFaFVzV2ROXy1jT2hyQlVzV1VUd1pKOHZrbmdhaE9wbzdSdlpWZmxtc3pmUU42RV9MTzlJWnBuUm5LdWJRLU01QTRxMWlMd045V0tFVGN1b0FNcXRjb2ZkamJNZDZ5eU1PN0thYWFMa1liVHR4RVNNLW82aTBkeHlDajhFOE5DX19BVUYySmNnY21GNGQzNWdURm9ONlNET3VJbW9WQ1RLem14U3duQmY2RnpjSm5jUG5iN2dwTDBNRFh0Xy1UQUZIZ1NWNmxURE1OUQ": {
+      "guid": "CBMi1gZBVV95cUxPZVVRV3pCMnEwV2JIVnNXUVlGZUV0TGZ0M3g2WUQwSlM0QkhHT3doSE81Smx3LUd6LXRaMlNscEFWck54bzVZc25wd3VlYTNzOTZLNE95Wi1GMWdydHpsaVB6NFlSYk5PZk1TUFVPNzN3VFExbmhmeTVwa29pZ1R6dno4SFAwdHNqamJPV2t4ajV0NU5CWEhaMy10YVdjRGM3Uzh5OWdXaGxTTlNFUE0xUkRyRy1hSHhrZ0NxaGRRLV9MTDJrdVRWNU5IaEE0QjA0NGJ3dXR6N01CQXFOMlZnbVNDNDJUV2lwb3FlQl9LVG1vOGpqVlRETTQ3QW1aLVdvU2JPLUtRaElEemtGYmppeTIxRFZEd2xDTUhSZ2dDb2dvNFltazRLZFQxMWdvMXhIR0IwSDY5THBEYmZWNkFnazdfRENIdllYS2h3SzlVRDNkRzlQT2NjRnFzeW1aQnR2eW9UUHFMcW5YMUNERUp5RzU3d0o2Mld0MGd5Z2hxNlNfTzBKb3N2VzhxYUs5OVFPZF9PZV9mUWNTOEhOYjZaVmFmUUszVE1JdDRyOHRiQ1Fmb1ZVcDJOTVlvNkFkeU40MGpQajV2aXV1MXBGRmQzLTN1eXhsY2NHU0lyN3hxbGhJZ3ZXcG42cFMyemJ5UFVrU2UxcDlkSVNJS0Nhakl4d1AxVVJERGhJTVNLNnZjZ3gyUEdIc0M3Mm9RMGRjOWNnV0NKbzJRdGxqLXNxRGhTMG9SbDd0Z3lZaFNCWGd3SkRsNG9FWkhLakl3UlZyMG1CaVdEYjVQQnNidF9oY291UEsyc2dhZHpxRG1ZT1owakxuczVVbzVKV0x4allXYWRIbG5SMVNGUHRyUDlFaFVzV2ROXy1jT2hyQlVzV1VUd1pKOHZrbmdhaE9wbzdSdlpWZmxtc3pmUU42RV9MTzlJWnBuUm5LdWJRLU01QTRxMWlMd045V0tFVGN1b0FNcXRjb2ZkamJNZDZ5eU1PN0thYWFMa1liVHR4RVNNLW82aTBkeHlDajhFOE5DX19BVUYySmNnY21GNGQzNWdURm9ONlNET3VJbW9WQ1RLem14U3duQmY2RnpjSm5jUG5iN2dwTDBNRFh0Xy1UQUZIZ1NWNmxURE1OUQ",
+      "title": "전북도-김제시-네오배터리머티리얼즈코리아의 893억 배터리 투자 협약. - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMi1gZBVV95cUxPZVVRV3pCMnEwV2JIVnNXUVlGZUV0TGZ0M3g2WUQwSlM0QkhHT3doSE81Smx3LUd6LXRaMlNscEFWck54bzVZc25wd3VlYTNzOTZLNE95Wi1GMWdydHpsaVB6NFlSYk5PZk1TUFVPNzN3VFExbmhmeTVwa29pZ1R6dno4SFAwdHNqamJPV2t4ajV0NU5CWEhaMy10YVdjRGM3Uzh5OWdXaGxTTlNFUE0xUkRyRy1hSHhrZ0NxaGRRLV9MTDJrdVRWNU5IaEE0QjA0NGJ3dXR6N01CQXFOMlZnbVNDNDJUV2lwb3FlQl9LVG1vOGpqVlRETTQ3QW1aLVdvU2JPLUtRaElEemtGYmppeTIxRFZEd2xDTUhSZ2dDb2dvNFltazRLZFQxMWdvMXhIR0IwSDY5THBEYmZWNkFnazdfRENIdllYS2h3SzlVRDNkRzlQT2NjRnFzeW1aQnR2eW9UUHFMcW5YMUNERUp5RzU3d0o2Mld0MGd5Z2hxNlNfTzBKb3N2VzhxYUs5OVFPZF9PZV9mUWNTOEhOYjZaVmFmUUszVE1JdDRyOHRiQ1Fmb1ZVcDJOTVlvNkFkeU40MGpQajV2aXV1MXBGRmQzLTN1eXhsY2NHU0lyN3hxbGhJZ3ZXcG42cFMyemJ5UFVrU2UxcDlkSVNJS0Nhakl4d1AxVVJERGhJTVNLNnZjZ3gyUEdIc0M3Mm9RMGRjOWNnV0NKbzJRdGxqLXNxRGhTMG9SbDd0Z3lZaFNCWGd3SkRsNG9FWkhLakl3UlZyMG1CaVdEYjVQQnNidF9oY291UEsyc2dhZHpxRG1ZT1owakxuczVVbzVKV0x4allXYWRIbG5SMVNGUHRyUDlFaFVzV2ROXy1jT2hyQlVzV1VUd1pKOHZrbmdhaE9wbzdSdlpWZmxtc3pmUU42RV9MTzlJWnBuUm5LdWJRLU01QTRxMWlMd045V0tFVGN1b0FNcXRjb2ZkamJNZDZ5eU1PN0thYWFMa1liVHR4RVNNLW82aTBkeHlDajhFOE5DX19BVUYySmNnY21GNGQzNWdURm9ONlNET3VJbW9WQ1RLem14U3duQmY2RnpjSm5jUG5iN2dwTDBNRFh0Xy1UQUZIZ1NWNmxURE1OUQ?oc=5",
+      "pub_date": "2026-08-04T20:28:25+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gZBVV95cUxPZVVRV3pCMnEwV2JIVnNXUVlGZUV0TGZ0M3g2WUQwSlM0QkhHT3doSE81Smx3LUd6LXRaMlNscEFWck54bzVZc25wd3VlYTNzOTZLNE95Wi1GMWdydHpsaVB6NFlSYk5PZk1TUFVPNzN3VFExbmhmeTVwa29pZ1R6dno4SFAwdHNqamJPV2t4ajV0NU5CWEhaMy10YVdjRGM3Uzh5OWdXaGxTTlNFUE0xUkRyRy1hSHhrZ0NxaGRRLV9MTDJrdVRWNU5IaEE0QjA0NGJ3dXR6N01CQXFOMlZnbVNDNDJUV2lwb3FlQl9LVG1vOGpqVlRETTQ3QW1aLVdvU2JPLUtRaElEemtGYmppeTIxRFZEd2xDTUhSZ2dDb2dvNFltazRLZFQxMWdvMXhIR0IwSDY5THBEYmZWNkFnazdfRENIdllYS2h3SzlVRDNkRzlQT2NjRnFzeW1aQnR2eW9UUHFMcW5YMUNERUp5RzU3d0o2Mld0MGd5Z2hxNlNfTzBKb3N2VzhxYUs5OVFPZF9PZV9mUWNTOEhOYjZaVmFmUUszVE1JdDRyOHRiQ1Fmb1ZVcDJOTVlvNkFkeU40MGpQajV2aXV1MXBGRmQzLTN1eXhsY2NHU0lyN3hxbGhJZ3ZXcG42cFMyemJ5UFVrU2UxcDlkSVNJS0Nhakl4d1AxVVJERGhJTVNLNnZjZ3gyUEdIc0M3Mm9RMGRjOWNnV0NKbzJRdGxqLXNxRGhTMG9SbDd0Z3lZaFNCWGd3SkRsNG9FWkhLakl3UlZyMG1CaVdEYjVQQnNidF9oY291UEsyc2dhZHpxRG1ZT1owakxuczVVbzVKV0x4allXYWRIbG5SMVNGUHRyUDlFaFVzV2ROXy1jT2hyQlVzV1VUd1pKOHZrbmdhaE9wbzdSdlpWZmxtc3pmUU42RV9MTzlJWnBuUm5LdWJRLU01QTRxMWlMd045V0tFVGN1b0FNcXRjb2ZkamJNZDZ5eU1PN0thYWFMa1liVHR4RVNNLW82aTBkeHlDajhFOE5DX19BVUYySmNnY21GNGQzNWdURm9ONlNET3VJbW9WQ1RLem14U3duQmY2RnpjSm5jUG5iN2dwTDBNRFh0Xy1UQUZIZ1NWNmxURE1OUQ?oc=5\" target=\"_blank\">전북도-김제시-네오배터리머티리얼즈코리아의 893억 배터리 투자 협약.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+      "first_seen": "2026-08-05T22:11:17.344670+00:00"
+    },
+    "CBMiS0FVX3lxTFBONUhnRHJNNGFGVWlpZ0I1ZTYtU1p4cnVMTnJHTDBTOGVFQ3F0ejNOZjBQZUt3djY3OUZHU2EyWTdETnh6QllRVTVpOA": {
+      "guid": "CBMiS0FVX3lxTFBONUhnRHJNNGFGVWlpZ0I1ZTYtU1p4cnVMTnJHTDBTOGVFQ3F0ejNOZjBQZUt3djY3OUZHU2EyWTdETnh6QllRVTVpOA",
+      "title": "전북도·김제시, 네오배터리머티리얼즈와 893억 투자협약 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBONUhnRHJNNGFGVWlpZ0I1ZTYtU1p4cnVMTnJHTDBTOGVFQ3F0ejNOZjBQZUt3djY3OUZHU2EyWTdETnh6QllRVTVpOA?oc=5",
+      "pub_date": "2026-08-04T05:54:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBONUhnRHJNNGFGVWlpZ0I1ZTYtU1p4cnVMTnJHTDBTOGVFQ3F0ejNOZjBQZUt3djY3OUZHU2EyWTdETnh6QllRVTVpOA?oc=5\" target=\"_blank\">전북도·김제시, 네오배터리머티리얼즈와 893억 투자협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+      "first_seen": "2026-08-06T03:58:21.617617+00:00"
+    },
+    "CBMiVEFVX3lxTE5ITkRjMVBCU3dWYWpKZUhNdjhFcU05MHRuZ3dvZmh0bE9SZEtqbDF5b1dIZlZDR2tLOHFDVV9xUjUwNWo3Q0c5cHIwTzExMlpnYi04Tg": {
+      "guid": "CBMiVEFVX3lxTE5ITkRjMVBCU3dWYWpKZUhNdjhFcU05MHRuZ3dvZmh0bE9SZEtqbDF5b1dIZlZDR2tLOHFDVV9xUjUwNWo3Q0c5cHIwTzExMlpnYi04Tg",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 규모 투자 협약 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ITkRjMVBCU3dWYWpKZUhNdjhFcU05MHRuZ3dvZmh0bE9SZEtqbDF5b1dIZlZDR2tLOHFDVV9xUjUwNWo3Q0c5cHIwTzExMlpnYi04Tg?oc=5",
+      "pub_date": "2026-08-04T05:52:04+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ITkRjMVBCU3dWYWpKZUhNdjhFcU05MHRuZ3dvZmh0bE9SZEtqbDF5b1dIZlZDR2tLOHFDVV9xUjUwNWo3Q0c5cHIwTzExMlpnYi04Tg?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 규모 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+      "first_seen": "2026-08-06T03:58:21.617617+00:00"
+    },
+    "CBMiYEFVX3lxTE1DeVlGY0xybzc5QTFlczNtMFlpUzJOUGs4OGhta0JFN2g5SDlpX0tZdmVkbWtDajhlYmdhVzFfZk91VHMtNUpnOWJSaTRkUFBpdzhmREhtQlIxcGV0dHhEbtIBeEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVA": {
+      "guid": "CBMiYEFVX3lxTE1DeVlGY0xybzc5QTFlczNtMFlpUzJOUGs4OGhta0JFN2g5SDlpX0tZdmVkbWtDajhlYmdhVzFfZk91VHMtNUpnOWJSaTRkUFBpdzhmREhtQlIxcGV0dHhEbtIBeEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVA",
+      "title": "전북도-네오배터리머티리얼즈, 고에너지·고출력 배터리 개발 맞손 - newsis.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DeVlGY0xybzc5QTFlczNtMFlpUzJOUGs4OGhta0JFN2g5SDlpX0tZdmVkbWtDajhlYmdhVzFfZk91VHMtNUpnOWJSaTRkUFBpdzhmREhtQlIxcGV0dHhEbtIBeEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVA?oc=5",
+      "pub_date": "2026-08-04T04:03:23+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DeVlGY0xybzc5QTFlczNtMFlpUzJOUGs4OGhta0JFN2g5SDlpX0tZdmVkbWtDajhlYmdhVzFfZk91VHMtNUpnOWJSaTRkUFBpdzhmREhtQlIxcGV0dHhEbtIBeEFVX3lxTE5wU3FOS3N5akF6X1UwTnl0Tk9WZ1FOcXV0RDhvVXdoYXJGRUEtMjFBbi1sQXZKN2VlWjVyT2k2QkFhQml0OVA1dGlCZ2ZTMVpINDVIdHVSLUJBSC16ZVJsU09GZEpQUnVfeVdQaDh4ODM0WFppM2xDVA?oc=5\" target=\"_blank\">전북도-네오배터리머티리얼즈, 고에너지·고출력 배터리 개발 맞손</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsis.com</font>",
+      "first_seen": "2026-08-06T07:45:16.071861+00:00"
+    },
+    "CBMibkFVX3lxTFBtRDgwZTE2Y3REZHdVaEpiVU02czYwendjMFJqMVIxZVR1cDZnRm8ycURtTFdGeHgxbE9WTThOaHhicWNreGNOcTNnUkRCd0RGTncxTnF4N1pxNVZRelFEZ2hoMzFwV05KNmk4a25R0gFuQVVfeXFMUG1EODBlMTZjdERkd1VoSmJVTTZzNjB6d2MwUmoxUjFlVHVwNmdGbzJxRG1MV0Z4eDFsT1ZNOE5oeGJxY2t4Y05xM2dSREJ3REZOdzFOcXg3WnE1VlF6UURnaGgzMXBXTko2aThrblE": {
+      "guid": "CBMibkFVX3lxTFBtRDgwZTE2Y3REZHdVaEpiVU02czYwendjMFJqMVIxZVR1cDZnRm8ycURtTFdGeHgxbE9WTThOaHhicWNreGNOcTNnUkRCd0RGTncxTnF4N1pxNVZRelFEZ2hoMzFwV05KNmk4a25R0gFuQVVfeXFMUG1EODBlMTZjdERkd1VoSmJVTTZzNjB6d2MwUmoxUjFlVHVwNmdGbzJxRG1MV0Z4eDFsT1ZNOE5oeGJxY2t4Y05xM2dSREJ3REZOdzFOcXg3WnE1VlF6UURnaGgzMXBXTko2aThrblE",
+      "title": "전북자치도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 - 아시아뉴스전북",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtRDgwZTE2Y3REZHdVaEpiVU02czYwendjMFJqMVIxZVR1cDZnRm8ycURtTFdGeHgxbE9WTThOaHhicWNreGNOcTNnUkRCd0RGTncxTnF4N1pxNVZRelFEZ2hoMzFwV05KNmk4a25R0gFuQVVfeXFMUG1EODBlMTZjdERkd1VoSmJVTTZzNjB6d2MwUmoxUjFlVHVwNmdGbzJxRG1MV0Z4eDFsT1ZNOE5oeGJxY2t4Y05xM2dSREJ3REZOdzFOcXg3WnE1VlF6UURnaGgzMXBXTko2aThrblE?oc=5",
+      "pub_date": "2026-08-04T10:52:32+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBtRDgwZTE2Y3REZHdVaEpiVU02czYwendjMFJqMVIxZVR1cDZnRm8ycURtTFdGeHgxbE9WTThOaHhicWNreGNOcTNnUkRCd0RGTncxTnF4N1pxNVZRelFEZ2hoMzFwV05KNmk4a25R0gFuQVVfeXFMUG1EODBlMTZjdERkd1VoSmJVTTZzNjB6d2MwUmoxUjFlVHVwNmdGbzJxRG1MV0Z4eDFsT1ZNOE5oeGJxY2t4Y05xM2dSREJ3REZOdzFOcXg3WnE1VlF6UURnaGgzMXBXTko2aThrblE?oc=5\" target=\"_blank\">전북자치도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아뉴스전북</font>",
+      "first_seen": "2026-08-06T12:56:32.672075+00:00"
+    },
+    "CBMicEFVX3lxTE9GRGZDTGw2MnBINWtua25leHFzdTQ4UE53ZzUzNFU5VHY1WUV4WEQ0MGRWX3EtbFFOc2RXNlVuT3k4eDJ6YTlIVXUwNi1Ib19wTmFJN1NPRlpxUzYtc2ZFWXVYdmpobFU3U29XaVp6SnHSAXBBVV95cUxPRkRmQ0xsNjJwSDVrbmtuZXhxc3U0OFBOd2c1MzRVOVR2NVlFeFhENDBkVl9xLWxRTnNkVzZVbk95OHgyemE5SFV1MDYtSG9fcE5hSTdTT0ZacVM2LXNmRVl1WHZqaGxVN1NvV2laekpx": {
+      "guid": "CBMicEFVX3lxTE9GRGZDTGw2MnBINWtua25leHFzdTQ4UE53ZzUzNFU5VHY1WUV4WEQ0MGRWX3EtbFFOc2RXNlVuT3k4eDJ6YTlIVXUwNi1Ib19wTmFJN1NPRlpxUzYtc2ZFWXVYdmpobFU3U29XaVp6SnHSAXBBVV95cUxPRkRmQ0xsNjJwSDVrbmtuZXhxc3U0OFBOd2c1MzRVOVR2NVlFeFhENDBkVl9xLWxRTnNkVzZVbk95OHgyemE5SFV1MDYtSG9fcE5hSTdTT0ZacVM2LXNmRVl1WHZqaGxVN1NvV2laekpx",
+      "title": "전북도, 네오배터리머티리얼즈코리아와 893억 투자 협약.... 첨단 배터리 거점 구축 나선다 - 전라일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GRGZDTGw2MnBINWtua25leHFzdTQ4UE53ZzUzNFU5VHY1WUV4WEQ0MGRWX3EtbFFOc2RXNlVuT3k4eDJ6YTlIVXUwNi1Ib19wTmFJN1NPRlpxUzYtc2ZFWXVYdmpobFU3U29XaVp6SnHSAXBBVV95cUxPRkRmQ0xsNjJwSDVrbmtuZXhxc3U0OFBOd2c1MzRVOVR2NVlFeFhENDBkVl9xLWxRTnNkVzZVbk95OHgyemE5SFV1MDYtSG9fcE5hSTdTT0ZacVM2LXNmRVl1WHZqaGxVN1NvV2laekpx?oc=5",
+      "pub_date": "2026-08-04T11:58:46+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9GRGZDTGw2MnBINWtua25leHFzdTQ4UE53ZzUzNFU5VHY1WUV4WEQ0MGRWX3EtbFFOc2RXNlVuT3k4eDJ6YTlIVXUwNi1Ib19wTmFJN1NPRlpxUzYtc2ZFWXVYdmpobFU3U29XaVp6SnHSAXBBVV95cUxPRkRmQ0xsNjJwSDVrbmtuZXhxc3U0OFBOd2c1MzRVOVR2NVlFeFhENDBkVl9xLWxRTnNkVzZVbk95OHgyemE5SFV1MDYtSG9fcE5hSTdTT0ZacVM2LXNmRVl1WHZqaGxVN1NvV2laekpx?oc=5\" target=\"_blank\">전북도, 네오배터리머티리얼즈코리아와 893억 투자 협약.... 첨단 배터리 거점 구축 나선다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전라일보</font>",
+      "first_seen": "2026-08-07T01:00:42.315889+00:00"
+    },
+    "CBMiT0FVX3lxTE54TFdUdG5saXp6T1pZNmROSGFkUGpjMTR6Wm0zVHdiTGswSE94dk0zajdDeEZqcnFUR2F6TjZiTUZidm5ScXMtRHdVNG1QYms": {
+      "guid": "CBMiT0FVX3lxTE54TFdUdG5saXp6T1pZNmROSGFkUGpjMTR6Wm0zVHdiTGswSE94dk0zajdDeEZqcnFUR2F6TjZiTUZidm5ScXMtRHdVNG1QYms",
+      "title": "전북도·김제시, 네오배터리머티리얼즈와 893억 투자협약 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54TFdUdG5saXp6T1pZNmROSGFkUGpjMTR6Wm0zVHdiTGswSE94dk0zajdDeEZqcnFUR2F6TjZiTUZidm5ScXMtRHdVNG1QYms?oc=5",
+      "pub_date": "2026-08-04T05:54:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE54TFdUdG5saXp6T1pZNmROSGFkUGpjMTR6Wm0zVHdiTGswSE94dk0zajdDeEZqcnFUR2F6TjZiTUZidm5ScXMtRHdVNG1QYms?oc=5\" target=\"_blank\">전북도·김제시, 네오배터리머티리얼즈와 893억 투자협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+      "first_seen": "2026-08-07T03:43:27.914733+00:00"
+    },
+    "CBMi1wFBVV95cUxQamQtOEJoVnhsNnRIalFobjBpVlZLcnV1YUdSOEVKQmROeXNON20ydnR1ZnFfVDZUOVFFcFJhZVc3c19Td3g1eEJyeGhCMnV6TXIzU3JTa2h0U3Q5aWQxTjFlWE1DSVpVdkhBUXdXYWM5aG1FbXlsQk1CZDJxeTRfMG4tSmNRbVVrTmFVMUJjRXVCYUg2QldkRlozcWc3X2lKM181VEhjTmdQeGYxVVpxQmstdlQzcjJGeVJUcEJDVUVTMkY1Q0JTeTlJZ1BibFpLSDlPaVRqdw": {
+      "guid": "CBMi1wFBVV95cUxQamQtOEJoVnhsNnRIalFobjBpVlZLcnV1YUdSOEVKQmROeXNON20ydnR1ZnFfVDZUOVFFcFJhZVc3c19Td3g1eEJyeGhCMnV6TXIzU3JTa2h0U3Q5aWQxTjFlWE1DSVpVdkhBUXdXYWM5aG1FbXlsQk1CZDJxeTRfMG4tSmNRbVVrTmFVMUJjRXVCYUg2QldkRlozcWc3X2lKM181VEhjTmdQeGYxVVpxQmstdlQzcjJGeVJUcEJDVUVTMkY1Q0JTeTlJZ1BibFpLSDlPaVRqdw",
+      "title": "NEO Battery Materials Ltd. announced that it expects to receive CAD 6 million in funding - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQamQtOEJoVnhsNnRIalFobjBpVlZLcnV1YUdSOEVKQmROeXNON20ydnR1ZnFfVDZUOVFFcFJhZVc3c19Td3g1eEJyeGhCMnV6TXIzU3JTa2h0U3Q5aWQxTjFlWE1DSVpVdkhBUXdXYWM5aG1FbXlsQk1CZDJxeTRfMG4tSmNRbVVrTmFVMUJjRXVCYUg2QldkRlozcWc3X2lKM181VEhjTmdQeGYxVVpxQmstdlQzcjJGeVJUcEJDVUVTMkY1Q0JTeTlJZ1BibFpLSDlPaVRqdw?oc=5",
+      "pub_date": "2026-08-03T22:00:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQamQtOEJoVnhsNnRIalFobjBpVlZLcnV1YUdSOEVKQmROeXNON20ydnR1ZnFfVDZUOVFFcFJhZVc3c19Td3g1eEJyeGhCMnV6TXIzU3JTa2h0U3Q5aWQxTjFlWE1DSVpVdkhBUXdXYWM5aG1FbXlsQk1CZDJxeTRfMG4tSmNRbVVrTmFVMUJjRXVCYUg2QldkRlozcWc3X2lKM181VEhjTmdQeGYxVVpxQmstdlQzcjJGeVJUcEJDVUVTMkY1Q0JTeTlJZ1BibFpLSDlPaVRqdw?oc=5\" target=\"_blank\">NEO Battery Materials Ltd. announced that it expects to receive CAD 6 million in funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-08-07T11:45:06.297154+00:00"
+    },
+    "CBMibkFVX3lxTE9MdkJ5OXU1cVBDWl9GNmZyNVNpbzc5YUxiTURqSGpzc3R3T3g4aXVXekNENjc0WG80LUpPaDBiRDREQWt6dTdoc040TWZKX01Rb3lZT0hvbWt6LTM2YmRxS19SSzFaVkVuQXVjejRR0gFwQVVfeXFMT0ZEZkNMbDYycEg1a25rbmV4cXN1NDhQTndnNTM0VTlUdjVZRXhYRDQwZFZfcS1sUU5zZFc2VW5PeTh4MnphOUhVdTA2LUhvX3BOYUk3U09GWnFTNi1zZkVZdVh2amhsVTdTb1dpWnpKcQ": {
+      "guid": "CBMibkFVX3lxTE9MdkJ5OXU1cVBDWl9GNmZyNVNpbzc5YUxiTURqSGpzc3R3T3g4aXVXekNENjc0WG80LUpPaDBiRDREQWt6dTdoc040TWZKX01Rb3lZT0hvbWt6LTM2YmRxS19SSzFaVkVuQXVjejRR0gFwQVVfeXFMT0ZEZkNMbDYycEg1a25rbmV4cXN1NDhQTndnNTM0VTlUdjVZRXhYRDQwZFZfcS1sUU5zZFc2VW5PeTh4MnphOUhVdTA2LUhvX3BOYUk3U09GWnFTNi1zZkVZdVh2amhsVTdTb1dpWnpKcQ",
+      "title": "전북도, 네오배터리머티리얼즈코리아와 893억 투자 협약.... 첨단 배터리 거점 구축 나선다 - 전라일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MdkJ5OXU1cVBDWl9GNmZyNVNpbzc5YUxiTURqSGpzc3R3T3g4aXVXekNENjc0WG80LUpPaDBiRDREQWt6dTdoc040TWZKX01Rb3lZT0hvbWt6LTM2YmRxS19SSzFaVkVuQXVjejRR0gFwQVVfeXFMT0ZEZkNMbDYycEg1a25rbmV4cXN1NDhQTndnNTM0VTlUdjVZRXhYRDQwZFZfcS1sUU5zZFc2VW5PeTh4MnphOUhVdTA2LUhvX3BOYUk3U09GWnFTNi1zZkVZdVh2amhsVTdTb1dpWnpKcQ?oc=5",
+      "pub_date": "2026-08-04T08:29:38+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9MdkJ5OXU1cVBDWl9GNmZyNVNpbzc5YUxiTURqSGpzc3R3T3g4aXVXekNENjc0WG80LUpPaDBiRDREQWt6dTdoc040TWZKX01Rb3lZT0hvbWt6LTM2YmRxS19SSzFaVkVuQXVjejRR0gFwQVVfeXFMT0ZEZkNMbDYycEg1a25rbmV4cXN1NDhQTndnNTM0VTlUdjVZRXhYRDQwZFZfcS1sUU5zZFc2VW5PeTh4MnphOUhVdTA2LUhvX3BOYUk3U09GWnFTNi1zZkVZdVh2amhsVTdTb1dpWnpKcQ?oc=5\" target=\"_blank\">전북도, 네오배터리머티리얼즈코리아와 893억 투자 협약.... 첨단 배터리 거점 구축 나선다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전라일보</font>",
+      "first_seen": "2026-08-07T11:45:06.297154+00:00"
+    },
+    "CBMiW0FVX3lxTE5hZ2VrOVh0VHVhSXZMdjlET09uV3F0UEgwVGRZNDg1elJzaHloR196QUd2dHliQzZTX0ZXVURpZ3hqUFlTNUlQUlFtdUJ6MktNVDJiQXBfZXpOZnfSAVdBVV95cUxNVGVCMm0zWDJqbDhKZHdTTFF3cW11Y2lUMTFwWC1EV1lXR0hBeWZFMmN5SFY4THdaU3c1QzRaVmFGaUM5VTNjcVNQdVdrSUZ0Y0R3c29Sa28": {
+      "guid": "CBMiW0FVX3lxTE5hZ2VrOVh0VHVhSXZMdjlET09uV3F0UEgwVGRZNDg1elJzaHloR196QUd2dHliQzZTX0ZXVURpZ3hqUFlTNUlQUlFtdUJ6MktNVDJiQXBfZXpOZnfSAVdBVV95cUxNVGVCMm0zWDJqbDhKZHdTTFF3cW11Y2lUMTFwWC1EV1lXR0hBeWZFMmN5SFY4THdaU3c1QzRaVmFGaUM5VTNjcVNQdVdrSUZ0Y0R3c29Sa28",
+      "title": "NEO Battery Materials to invest $62 million in Gimje battery hub - Aju Press",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hZ2VrOVh0VHVhSXZMdjlET09uV3F0UEgwVGRZNDg1elJzaHloR196QUd2dHliQzZTX0ZXVURpZ3hqUFlTNUlQUlFtdUJ6MktNVDJiQXBfZXpOZnfSAVdBVV95cUxNVGVCMm0zWDJqbDhKZHdTTFF3cW11Y2lUMTFwWC1EV1lXR0hBeWZFMmN5SFY4THdaU3c1QzRaVmFGaUM5VTNjcVNQdVdrSUZ0Y0R3c29Sa28?oc=5",
+      "pub_date": "2026-08-04T08:44:31+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hZ2VrOVh0VHVhSXZMdjlET09uV3F0UEgwVGRZNDg1elJzaHloR196QUd2dHliQzZTX0ZXVURpZ3hqUFlTNUlQUlFtdUJ6MktNVDJiQXBfZXpOZnfSAVdBVV95cUxNVGVCMm0zWDJqbDhKZHdTTFF3cW11Y2lUMTFwWC1EV1lXR0hBeWZFMmN5SFY4THdaU3c1QzRaVmFGaUM5VTNjcVNQdVdrSUZ0Y0R3c29Sa28?oc=5\" target=\"_blank\">NEO Battery Materials to invest $62 million in Gimje battery hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aju Press</font>",
+      "first_seen": "2026-08-07T17:49:39.000963+00:00"
+    },
+    "CBMiVEFVX3lxTE9mSHVsYVp5NjIybVV3M1k3YWIySWlGTXlLdzhWRmc5VW9VVVRUbkUtdFdRU3lhMExLOWppV2pXdTVvOG1remx6RXJ2TDhPU3F5MlpPVg": {
+      "guid": "CBMiVEFVX3lxTE9mSHVsYVp5NjIybVV3M1k3YWIySWlGTXlLdzhWRmc5VW9VVVRUbkUtdFdRU3lhMExLOWppV2pXdTVvOG1remx6RXJ2TDhPU3F5MlpPVg",
+      "title": "전북도·김제시, 네오배터리머티리얼즈와 893억 투자협약 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mSHVsYVp5NjIybVV3M1k3YWIySWlGTXlLdzhWRmc5VW9VVVRUbkUtdFdRU3lhMExLOWppV2pXdTVvOG1remx6RXJ2TDhPU3F5MlpPVg?oc=5",
+      "pub_date": "2026-08-04T05:54:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mSHVsYVp5NjIybVV3M1k3YWIySWlGTXlLdzhWRmc5VW9VVVRUbkUtdFdRU3lhMExLOWppV2pXdTVvOG1remx6RXJ2TDhPU3F5MlpPVg?oc=5\" target=\"_blank\">전북도·김제시, 네오배터리머티리얼즈와 893억 투자협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+      "first_seen": "2026-08-07T17:49:39.000963+00:00"
+    },
+    "CBMiWEFVX3lxTE9oeG55OC0yaXFpUVNnQTNQdUdEMmJTV21HRTFCbEFzTzlFWkhaTUY3Tzk3MHZZZFVtMmxoX3dqenRhYzBseXhJZG5qeG9tM0tGenhQN1ZSZkrSAVRBVV95cUxNTU9rVEFxcFYxNFVGQUppbjEwdEg1WllXS1dWYTdrazdVZGl6VHlqZS1paVNOTEJ5ZlRXck1wS0Z6UUtFYmJfTW9OWnVkb05TQVNNVzQ": {
+      "guid": "CBMiWEFVX3lxTE9oeG55OC0yaXFpUVNnQTNQdUdEMmJTV21HRTFCbEFzTzlFWkhaTUY3Tzk3MHZZZFVtMmxoX3dqenRhYzBseXhJZG5qeG9tM0tGenhQN1ZSZkrSAVRBVV95cUxNTU9rVEFxcFYxNFVGQUppbjEwdEg1WllXS1dWYTdrazdVZGl6VHlqZS1paVNOTEJ5ZlRXck1wS0Z6UUtFYmJfTW9OWnVkb05TQVNNVzQ",
+      "title": "네오배터리머티리얼즈코리아, 김제에 ‘드론·방산 배터리’ 생산거점 구축 - 세계일보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oeG55OC0yaXFpUVNnQTNQdUdEMmJTV21HRTFCbEFzTzlFWkhaTUY3Tzk3MHZZZFVtMmxoX3dqenRhYzBseXhJZG5qeG9tM0tGenhQN1ZSZkrSAVRBVV95cUxNTU9rVEFxcFYxNFVGQUppbjEwdEg1WllXS1dWYTdrazdVZGl6VHlqZS1paVNOTEJ5ZlRXck1wS0Z6UUtFYmJfTW9OWnVkb05TQVNNVzQ?oc=5",
+      "pub_date": "2026-08-04T06:35:32+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oeG55OC0yaXFpUVNnQTNQdUdEMmJTV21HRTFCbEFzTzlFWkhaTUY3Tzk3MHZZZFVtMmxoX3dqenRhYzBseXhJZG5qeG9tM0tGenhQN1ZSZkrSAVRBVV95cUxNTU9rVEFxcFYxNFVGQUppbjEwdEg1WllXS1dWYTdrazdVZGl6VHlqZS1paVNOTEJ5ZlRXck1wS0Z6UUtFYmJfTW9OWnVkb05TQVNNVzQ?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아, 김제에 ‘드론·방산 배터리’ 생산거점 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+      "first_seen": "2026-08-07T17:49:39.000963+00:00"
+    },
+    "CBMixAFBVV95cUxPVE52X0VVVUd0T0JUVHYwLUtGVGdsaWJMYnBfQ1NkLVQ5YnJzb2c4dTZpZ2xoOFFRdER0VHZUalR0NEVSVGZfZG1oLW9oU1NlN3hNMzRDRmtQNU81bmFZMXVnRnJvbDdFVnlsRUhPWTlNYzVQY2FJdTg3ZzFoc3hNTU0ya0NoWmdoYlYyWkJkMFFmSWpGTXBMQmp4QmlRNEp4a2ZIY3VUTXhLM1BNMFRwb3I3TUxoaFp4MENoYXpGX2V4NXp6": {
+      "guid": "CBMixAFBVV95cUxPVE52X0VVVUd0T0JUVHYwLUtGVGdsaWJMYnBfQ1NkLVQ5YnJzb2c4dTZpZ2xoOFFRdER0VHZUalR0NEVSVGZfZG1oLW9oU1NlN3hNMzRDRmtQNU81bmFZMXVnRnJvbDdFVnlsRUhPWTlNYzVQY2FJdTg3ZzFoc3hNTU0ya0NoWmdoYlYyWkJkMFFmSWpGTXBMQmp4QmlRNEp4a2ZIY3VUTXhLM1BNMFRwb3I3TUxoaFp4MENoYXpGX2V4NXp6",
+      "title": "NEO Battery Materials to Raise C$4 Million Through LIFE Offering of Units - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVE52X0VVVUd0T0JUVHYwLUtGVGdsaWJMYnBfQ1NkLVQ5YnJzb2c4dTZpZ2xoOFFRdER0VHZUalR0NEVSVGZfZG1oLW9oU1NlN3hNMzRDRmtQNU81bmFZMXVnRnJvbDdFVnlsRUhPWTlNYzVQY2FJdTg3ZzFoc3hNTU0ya0NoWmdoYlYyWkJkMFFmSWpGTXBMQmp4QmlRNEp4a2ZIY3VUTXhLM1BNMFRwb3I3TUxoaFp4MENoYXpGX2V4NXp6?oc=5",
+      "pub_date": "2026-08-07T20:43:54+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPVE52X0VVVUd0T0JUVHYwLUtGVGdsaWJMYnBfQ1NkLVQ5YnJzb2c4dTZpZ2xoOFFRdER0VHZUalR0NEVSVGZfZG1oLW9oU1NlN3hNMzRDRmtQNU81bmFZMXVnRnJvbDdFVnlsRUhPWTlNYzVQY2FJdTg3ZzFoc3hNTU0ya0NoWmdoYlYyWkJkMFFmSWpGTXBMQmp4QmlRNEp4a2ZIY3VUTXhLM1BNMFRwb3I3TUxoaFp4MENoYXpGX2V4NXp6?oc=5\" target=\"_blank\">NEO Battery Materials to Raise C$4 Million Through LIFE Offering of Units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-08-08T11:28:18.382215+00:00"
+    },
+    "CBMiX0FVX3lxTE1oenlZaURUQS11WjhJYVZrTnZwOFhmN3JpU3pIelRKYzVVQ29iN3FJMGdSamtjZGJFLWw5R3JCNmM1Q0ttdHA2V2xxaXV3bTVRR3Z6VUdkU2lybUV4RVJj": {
+      "guid": "CBMiX0FVX3lxTE1oenlZaURUQS11WjhJYVZrTnZwOFhmN3JpU3pIelRKYzVVQ29iN3FJMGdSamtjZGJFLWw5R3JCNmM1Q0ttdHA2V2xxaXV3bTVRR3Z6VUdkU2lybUV4RVJj",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자협약 - 무진장인터넷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oenlZaURUQS11WjhJYVZrTnZwOFhmN3JpU3pIelRKYzVVQ29iN3FJMGdSamtjZGJFLWw5R3JCNmM1Q0ttdHA2V2xxaXV3bTVRR3Z6VUdkU2lybUV4RVJj?oc=5",
+      "pub_date": "2026-08-04T05:41:38+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oenlZaURUQS11WjhJYVZrTnZwOFhmN3JpU3pIelRKYzVVQ29iN3FJMGdSamtjZGJFLWw5R3JCNmM1Q0ttdHA2V2xxaXV3bTVRR3Z6VUdkU2lybUV4RVJj?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">무진장인터넷뉴스</font>",
+      "first_seen": "2026-08-08T17:29:59.546268+00:00"
+    },
+    "CBMia0FVX3lxTE02RHZ4dDZMQXNnWHRacEpkelFVRFhQcmxSRjBVd3RJWnhCeXNkTk5RTUtoVkRVbXAxRmVVOUh6NzJaTy1sWXRVdkdRRFBlWGhTajdDbkkweWlGTXJod1pzS3BqUXBBb3FTR0130gFvQVVfeXFMTjg3c3FONkxSZS1kODZxNEJFQ05DY1hxSEdsbzB5TmRLN0ZUYndyQ25ocmtyWEVxZEhwUE5GRkZ6cTFnV3ZxQi1pN2RVM3lEWE1tNEpnR29UaWVtbW9BclhhTEVsU19BT2FTY3VuV0I4": {
+      "guid": "CBMia0FVX3lxTE02RHZ4dDZMQXNnWHRacEpkelFVRFhQcmxSRjBVd3RJWnhCeXNkTk5RTUtoVkRVbXAxRmVVOUh6NzJaTy1sWXRVdkdRRFBlWGhTajdDbkkweWlGTXJod1pzS3BqUXBBb3FTR0130gFvQVVfeXFMTjg3c3FONkxSZS1kODZxNEJFQ05DY1hxSEdsbzB5TmRLN0ZUYndyQ25ocmtyWEVxZEhwUE5GRkZ6cTFnV3ZxQi1pN2RVM3lEWE1tNEpnR29UaWVtbW9BclhhTEVsU19BT2FTY3VuV0I4",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 - 장애인문화복지신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02RHZ4dDZMQXNnWHRacEpkelFVRFhQcmxSRjBVd3RJWnhCeXNkTk5RTUtoVkRVbXAxRmVVOUh6NzJaTy1sWXRVdkdRRFBlWGhTajdDbkkweWlGTXJod1pzS3BqUXBBb3FTR0130gFvQVVfeXFMTjg3c3FONkxSZS1kODZxNEJFQ05DY1hxSEdsbzB5TmRLN0ZUYndyQ25ocmtyWEVxZEhwUE5GRkZ6cTFnV3ZxQi1pN2RVM3lEWE1tNEpnR29UaWVtbW9BclhhTEVsU19BT2FTY3VuV0I4?oc=5",
+      "pub_date": "2026-08-04T05:35:49+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE02RHZ4dDZMQXNnWHRacEpkelFVRFhQcmxSRjBVd3RJWnhCeXNkTk5RTUtoVkRVbXAxRmVVOUh6NzJaTy1sWXRVdkdRRFBlWGhTajdDbkkweWlGTXJod1pzS3BqUXBBb3FTR0130gFvQVVfeXFMTjg3c3FONkxSZS1kODZxNEJFQ05DY1hxSEdsbzB5TmRLN0ZUYndyQ25ocmtyWEVxZEhwUE5GRkZ6cTFnV3ZxQi1pN2RVM3lEWE1tNEpnR29UaWVtbW9BclhhTEVsU19BT2FTY3VuV0I4?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">장애인문화복지신문</font>",
+      "first_seen": "2026-08-08T17:29:59.546268+00:00"
+    },
+    "CBMicEFVX3lxTE5CcFowdjhrVU93ZkM1bXlHcmtGWG1LUkp3enNQNXJrVnV1OUc5Q3VETWpyTVl4QmY5dlUtQnl4UVdBU3VTaE5nRHhLdVQ4Q3VMb1dNMWZkTnFDRVZCVzZqWXB5S3pNdU9Cd01neW9ZRFU": {
+      "guid": "CBMicEFVX3lxTE5CcFowdjhrVU93ZkM1bXlHcmtGWG1LUkp3enNQNXJrVnV1OUc5Q3VETWpyTVl4QmY5dlUtQnl4UVdBU3VTaE5nRHhLdVQ4Q3VMb1dNMWZkTnFDRVZCVzZqWXB5S3pNdU9Cd01neW9ZRFU",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 원 규모 배터리 투자협약 체결 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CcFowdjhrVU93ZkM1bXlHcmtGWG1LUkp3enNQNXJrVnV1OUc5Q3VETWpyTVl4QmY5dlUtQnl4UVdBU3VTaE5nRHhLdVQ4Q3VMb1dNMWZkTnFDRVZCVzZqWXB5S3pNdU9Cd01neW9ZRFU?oc=5",
+      "pub_date": "2026-08-04T17:44:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5CcFowdjhrVU93ZkM1bXlHcmtGWG1LUkp3enNQNXJrVnV1OUc5Q3VETWpyTVl4QmY5dlUtQnl4UVdBU3VTaE5nRHhLdVQ4Q3VMb1dNMWZkTnFDRVZCVzZqWXB5S3pNdU9Cd01neW9ZRFU?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 원 규모 배터리 투자협약 체결 > 뉴스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더코리아</font>",
+      "first_seen": "2026-08-09T02:57:48.433575+00:00"
+    },
+    "CBMiYEFVX3lxTE5TZmF4TFBGRV9Bb05LcTRLWDZ5bzdlclhiODBIb0FHMHhWT1RlaTJ6QTRGTFpCMlNTS2pWUk5UbWRSdm1IMXIxOW1GMlVYdTdvU052Rm5vTGhmd1BfbXltRw": {
+      "guid": "CBMiYEFVX3lxTE5TZmF4TFBGRV9Bb05LcTRLWDZ5bzdlclhiODBIb0FHMHhWT1RlaTJ6QTRGTFpCMlNTS2pWUk5UbWRSdm1IMXIxOW1GMlVYdTdvU052Rm5vTGhmd1BfbXltRw",
+      "title": "전북도-네오배터리머티리얼즈, 고에너지·고출력 배터리 개발 맞손 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZmF4TFBGRV9Bb05LcTRLWDZ5bzdlclhiODBIb0FHMHhWT1RlaTJ6QTRGTFpCMlNTS2pWUk5UbWRSdm1IMXIxOW1GMlVYdTdvU052Rm5vTGhmd1BfbXltRw?oc=5",
+      "pub_date": "2026-08-04T04:04:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZmF4TFBGRV9Bb05LcTRLWDZ5bzdlclhiODBIb0FHMHhWT1RlaTJ6QTRGTFpCMlNTS2pWUk5UbWRSdm1IMXIxOW1GMlVYdTdvU052Rm5vTGhmd1BfbXltRw?oc=5\" target=\"_blank\">전북도-네오배터리머티리얼즈, 고에너지·고출력 배터리 개발 맞손</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+      "first_seen": "2026-08-09T02:57:48.433575+00:00"
+    },
+    "CBMiakFVX3lxTE1ZdE9PQ0VpTWFIaURnb2oyTkZoU1UxX3hyVHROeWZDQnk4RHB5OV9LUWhJbEdObnNibEVteVQ2Y3BwdjF1TDRmWm5hdW1WZ2tQaHVqOFZxR1RzRFpCYVJPd182c08zM0Q2Ymc": {
+      "guid": "CBMiakFVX3lxTE1ZdE9PQ0VpTWFIaURnb2oyTkZoU1UxX3hyVHROeWZDQnk4RHB5OV9LUWhJbEdObnNibEVteVQ2Y3BwdjF1TDRmWm5hdW1WZ2tQaHVqOFZxR1RzRFpCYVJPd182c08zM0Q2Ymc",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 - 전북제일신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZdE9PQ0VpTWFIaURnb2oyTkZoU1UxX3hyVHROeWZDQnk4RHB5OV9LUWhJbEdObnNibEVteVQ2Y3BwdjF1TDRmWm5hdW1WZ2tQaHVqOFZxR1RzRFpCYVJPd182c08zM0Q2Ymc?oc=5",
+      "pub_date": "2026-08-04T01:41:21+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZdE9PQ0VpTWFIaURnb2oyTkZoU1UxX3hyVHROeWZDQnk4RHB5OV9LUWhJbEdObnNibEVteVQ2Y3BwdjF1TDRmWm5hdW1WZ2tQaHVqOFZxR1RzRFpCYVJPd182c08zM0Q2Ymc?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북제일신문</font>",
+      "first_seen": "2026-08-09T04:18:14.909124+00:00"
+    },
+    "CBMibEFVX3lxTE5OWW51SFBEdkNmZ19WUy1MdnFRblpUTHJVaTBtWjVpU21vMS03N3hwTHRJaEZsaklZcHRLNGVkYkROOTQ5VGk2VWdkd012UWdwUk1vbzRPQmlONzFJMUZvbjhkNVR0dWluS05icw": {
+      "guid": "CBMibEFVX3lxTE5OWW51SFBEdkNmZ19WUy1MdnFRblpUTHJVaTBtWjVpU21vMS03N3hwTHRJaEZsaklZcHRLNGVkYkROOTQ5VGk2VWdkd012UWdwUk1vbzRPQmlONzFJMUZvbjhkNVR0dWluS05icw",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 - 한국미디어뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OWW51SFBEdkNmZ19WUy1MdnFRblpUTHJVaTBtWjVpU21vMS03N3hwTHRJaEZsaklZcHRLNGVkYkROOTQ5VGk2VWdkd012UWdwUk1vbzRPQmlONzFJMUZvbjhkNVR0dWluS05icw?oc=5",
+      "pub_date": "2026-08-04T05:35:49+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5OWW51SFBEdkNmZ19WUy1MdnFRblpUTHJVaTBtWjVpU21vMS03N3hwTHRJaEZsaklZcHRLNGVkYkROOTQ5VGk2VWdkd012UWdwUk1vbzRPQmlONzFJMUZvbjhkNVR0dWluS05icw?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국미디어뉴스통신</font>",
+      "first_seen": "2026-08-09T04:18:14.909124+00:00"
+    },
+    "CBMiakFVX3lxTE5QeUhFWlBlRzVXZk13VUxoaEJKYVJNVXlUbU1NOHVXZkRfa2VmakRDaUdhbWRSOVllT0tXSFBkZW9UNUJ2ZXViSi15NXc3LVJXMkFNc0pMcmNUeS1sbWFCNk9ncENwbUhkVmc": {
+      "guid": "CBMiakFVX3lxTE5QeUhFWlBlRzVXZk13VUxoaEJKYVJNVXlUbU1NOHVXZkRfa2VmakRDaUdhbWRSOVllT0tXSFBkZW9UNUJ2ZXViSi15NXc3LVJXMkFNc0pMcmNUeS1sbWFCNk9ncENwbUhkVmc",
+      "title": "네오배터리머티리얼즈코리아, 김제에 2공장 구축 - 뉴스티앤티",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeUhFWlBlRzVXZk13VUxoaEJKYVJNVXlUbU1NOHVXZkRfa2VmakRDaUdhbWRSOVllT0tXSFBkZW9UNUJ2ZXViSi15NXc3LVJXMkFNc0pMcmNUeS1sbWFCNk9ncENwbUhkVmc?oc=5",
+      "pub_date": "2026-08-04T16:26:45+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeUhFWlBlRzVXZk13VUxoaEJKYVJNVXlUbU1NOHVXZkRfa2VmakRDaUdhbWRSOVllT0tXSFBkZW9UNUJ2ZXViSi15NXc3LVJXMkFNc0pMcmNUeS1sbWFCNk9ncENwbUhkVmc?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아, 김제에 2공장 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스티앤티</font>",
+      "first_seen": "2026-08-09T05:51:32.779088+00:00"
+    },
+    "CBMia0FVX3lxTE50ZmhGQ0ZDTTdOZHJwV0pUM2FCcF9lb2FOTFkya3BxRjN1cy16ajJ3QUF2QkRRMGlKeU1KMUxTQkM1WEE4VS1YSkR5REplcnMxanExTHRTdVN0a21Cd3N0eGZiWVp5LUpsMGJR0gFvQVVfeXFMT1hDd0dPYTVBSEVWOGpoUFRDWE5JUW9ucHB6MU9lOXBqTjh4MlNOVHZFemRYS2l6UnhoV3MtNUp5dXRXdUttMmMwd3kzMElFanlFdWVmOVJSbThOek5wbEFxcW5heTh2MGd5U1NTNjlV": {
+      "guid": "CBMia0FVX3lxTE50ZmhGQ0ZDTTdOZHJwV0pUM2FCcF9lb2FOTFkya3BxRjN1cy16ajJ3QUF2QkRRMGlKeU1KMUxTQkM1WEE4VS1YSkR5REplcnMxanExTHRTdVN0a21Cd3N0eGZiWVp5LUpsMGJR0gFvQVVfeXFMT1hDd0dPYTVBSEVWOGpoUFRDWE5JUW9ucHB6MU9lOXBqTjh4MlNOVHZFemRYS2l6UnhoV3MtNUp5dXRXdUttMmMwd3kzMElFanlFdWVmOVJSbThOek5wbEFxcW5heTh2MGd5U1NTNjlV",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 - the-news.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ZmhGQ0ZDTTdOZHJwV0pUM2FCcF9lb2FOTFkya3BxRjN1cy16ajJ3QUF2QkRRMGlKeU1KMUxTQkM1WEE4VS1YSkR5REplcnMxanExTHRTdVN0a21Cd3N0eGZiWVp5LUpsMGJR0gFvQVVfeXFMT1hDd0dPYTVBSEVWOGpoUFRDWE5JUW9ucHB6MU9lOXBqTjh4MlNOVHZFemRYS2l6UnhoV3MtNUp5dXRXdUttMmMwd3kzMElFanlFdWVmOVJSbThOek5wbEFxcW5heTh2MGd5U1NTNjlV?oc=5",
+      "pub_date": "2026-08-04T02:39:58+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE50ZmhGQ0ZDTTdOZHJwV0pUM2FCcF9lb2FOTFkya3BxRjN1cy16ajJ3QUF2QkRRMGlKeU1KMUxTQkM1WEE4VS1YSkR5REplcnMxanExTHRTdVN0a21Cd3N0eGZiWVp5LUpsMGJR0gFvQVVfeXFMT1hDd0dPYTVBSEVWOGpoUFRDWE5JUW9ucHB6MU9lOXBqTjh4MlNOVHZFemRYS2l6UnhoV3MtNUp5dXRXdUttMmMwd3kzMElFanlFdWVmOVJSbThOek5wbEFxcW5heTh2MGd5U1NTNjlV?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-news.co.kr</font>",
+      "first_seen": "2026-08-09T05:51:32.779088+00:00"
+    },
+    "CBMiSkFVX3lxTFBoZTBVZWpvY0JzdHpkTHhEZUxSMzd4TDhlWG9VYmJvRFBFcnVPMU0tRU5wVnJ1S2NDcWRvd0xtdHgzRDlkakJrNTh3": {
+      "guid": "CBMiSkFVX3lxTFBoZTBVZWpvY0JzdHpkTHhEZUxSMzd4TDhlWG9VYmJvRFBFcnVPMU0tRU5wVnJ1S2NDcWRvd0xtdHgzRDlkakJrNTh3",
+      "title": "김제시, 네오배터리머티리얼즈코리아㈜, 투자협약 체결 김제 지평선산단에 893억 원 투자, 드론용 첨단 배터리 생산거점 구축 - 더뉴스코리아",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoZTBVZWpvY0JzdHpkTHhEZUxSMzd4TDhlWG9VYmJvRFBFcnVPMU0tRU5wVnJ1S2NDcWRvd0xtdHgzRDlkakJrNTh3?oc=5",
+      "pub_date": "2026-08-04T04:21:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoZTBVZWpvY0JzdHpkTHhEZUxSMzd4TDhlWG9VYmJvRFBFcnVPMU0tRU5wVnJ1S2NDcWRvd0xtdHgzRDlkakJrNTh3?oc=5\" target=\"_blank\">김제시, 네오배터리머티리얼즈코리아㈜, 투자협약 체결 김제 지평선산단에 893억 원 투자, 드론용 첨단 배터리 생산거점 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더뉴스코리아</font>",
+      "first_seen": "2026-08-09T05:51:32.779088+00:00"
+    },
+    "CBMib0FVX3lxTE9keEQ3b3hlR3kyUDM0eFNyZ0cwRjVVOVR4SXBQcXI1S2QwZ0VsNGtVQWRyaUVadEQ5Y2xlV25yMFoyYThFSWlLdVQ0N21NSkJKamVsWC1xbnI5dWJVMjNZeUZ4WWNnOGdJd2tCbFoxRQ": {
+      "guid": "CBMib0FVX3lxTE9keEQ3b3hlR3kyUDM0eFNyZ0cwRjVVOVR4SXBQcXI1S2QwZ0VsNGtVQWRyaUVadEQ5Y2xlV25yMFoyYThFSWlLdVQ0N21NSkJKamVsWC1xbnI5dWJVMjNZeUZ4WWNnOGdJd2tCbFoxRQ",
+      "title": "김제시, 네오배터리머티리얼즈코리아㈜, 투자협약 체결 김제 지평선산단에 893억 원 투자, 드론용 첨단 배터리 생산거점 구축 - ynyonhapnews.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9keEQ3b3hlR3kyUDM0eFNyZ0cwRjVVOVR4SXBQcXI1S2QwZ0VsNGtVQWRyaUVadEQ5Y2xlV25yMFoyYThFSWlLdVQ0N21NSkJKamVsWC1xbnI5dWJVMjNZeUZ4WWNnOGdJd2tCbFoxRQ?oc=5",
+      "pub_date": "2026-08-04T04:21:44+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9keEQ3b3hlR3kyUDM0eFNyZ0cwRjVVOVR4SXBQcXI1S2QwZ0VsNGtVQWRyaUVadEQ5Y2xlV25yMFoyYThFSWlLdVQ0N21NSkJKamVsWC1xbnI5dWJVMjNZeUZ4WWNnOGdJd2tCbFoxRQ?oc=5\" target=\"_blank\">김제시, 네오배터리머티리얼즈코리아㈜, 투자협약 체결 김제 지평선산단에 893억 원 투자, 드론용 첨단 배터리 생산거점 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ynyonhapnews.com</font>",
+      "first_seen": "2026-08-09T11:28:59.544906+00:00"
+    },
+    "CBMiZ0FVX3lxTE9yUjVVR2RlOXctUGt1VUFoMXJCeWlGSzY0SVB0MjVhbFUxZXhLYjJDMkEwWnVjRGZGUnZ3ZFA0ZzNQZXp2ZlBLbjBCUHlIZm9PTzYxUFhOZUJnY2J5QlJLRXBZQ2UyT1k": {
+      "guid": "CBMiZ0FVX3lxTE9yUjVVR2RlOXctUGt1VUFoMXJCeWlGSzY0SVB0MjVhbFUxZXhLYjJDMkEwWnVjRGZGUnZ3ZFA0ZzNQZXp2ZlBLbjBCUHlIZm9PTzYxUFhOZUJnY2J5QlJLRXBZQ2UyT1k",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 - hkilbo.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yUjVVR2RlOXctUGt1VUFoMXJCeWlGSzY0SVB0MjVhbFUxZXhLYjJDMkEwWnVjRGZGUnZ3ZFA0ZzNQZXp2ZlBLbjBCUHlIZm9PTzYxUFhOZUJnY2J5QlJLRXBZQ2UyT1k?oc=5",
+      "pub_date": "2026-08-04T05:35:49+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yUjVVR2RlOXctUGt1VUFoMXJCeWlGSzY0SVB0MjVhbFUxZXhLYjJDMkEwWnVjRGZGUnZ3ZFA0ZzNQZXp2ZlBLbjBCUHlIZm9PTzYxUFhOZUJnY2J5QlJLRXBZQ2UyT1k?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hkilbo.kr</font>",
+      "first_seen": "2026-08-09T11:28:59.544906+00:00"
+    },
+    "CBMibEFVX3lxTE1ubXYxN0RMWml4b2Z1R3V5eHBtd2tJcmI1MUNpdWh6bGJfMFVYRVZ3OG12eFItbGRTTjRZQXVILWtsRU9uc2pTWFkzOV9ZS2liQ1ZpVERScXpTWVVzUjJaeUt2S0pubUt3U0trNA": {
+      "guid": "CBMibEFVX3lxTE1ubXYxN0RMWml4b2Z1R3V5eHBtd2tJcmI1MUNpdWh6bGJfMFVYRVZ3OG12eFItbGRTTjRZQXVILWtsRU9uc2pTWFkzOV9ZS2liQ1ZpVERScXpTWVVzUjJaeUt2S0pubUt3U0trNA",
+      "title": "김제시, 네오배터리머티리얼즈코리아㈜, 투자협약 체결 김제 지평선산단에 893억 원 투자, 드론용 첨단 배터리 생산거점 구축 - 한국미디어뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ubXYxN0RMWml4b2Z1R3V5eHBtd2tJcmI1MUNpdWh6bGJfMFVYRVZ3OG12eFItbGRTTjRZQXVILWtsRU9uc2pTWFkzOV9ZS2liQ1ZpVERScXpTWVVzUjJaeUt2S0pubUt3U0trNA?oc=5",
+      "pub_date": "2026-08-04T04:21:44+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1ubXYxN0RMWml4b2Z1R3V5eHBtd2tJcmI1MUNpdWh6bGJfMFVYRVZ3OG12eFItbGRTTjRZQXVILWtsRU9uc2pTWFkzOV9ZS2liQ1ZpVERScXpTWVVzUjJaeUt2S0pubUt3U0trNA?oc=5\" target=\"_blank\">김제시, 네오배터리머티리얼즈코리아㈜, 투자협약 체결 김제 지평선산단에 893억 원 투자, 드론용 첨단 배터리 생산거점 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국미디어뉴스통신</font>",
+      "first_seen": "2026-08-09T11:28:59.544906+00:00"
+    },
+    "CBMifkFVX3lxTE1UQ1VRMXlLX2lnbkIwWE44SWNlbWlEcnJlSWJoWTZVaTI2RTVBYnBaVi1YcmdmU25VYU8xUm5Cei1Gdll6TzIzMks5RU1PeUJ1NWNqOXB0ajBsTFNjRHZLYmlnVEdRVGcxUXdJUTVXZWFCRExndElKc3BxT2QzZw": {
+      "guid": "CBMifkFVX3lxTE1UQ1VRMXlLX2lnbkIwWE44SWNlbWlEcnJlSWJoWTZVaTI2RTVBYnBaVi1YcmdmU25VYU8xUm5Cei1Gdll6TzIzMks5RU1PeUJ1NWNqOXB0ajBsTFNjRHZLYmlnVEdRVGcxUXdJUTVXZWFCRExndElKc3BxT2QzZw",
+      "title": "네오배터리머티리얼즈코리아㈜, 김제 지평선산단에 893억 원 투자 및 드론용 첨단 배터리 생산거점 구축 - thepowernews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UQ1VRMXlLX2lnbkIwWE44SWNlbWlEcnJlSWJoWTZVaTI2RTVBYnBaVi1YcmdmU25VYU8xUm5Cei1Gdll6TzIzMks5RU1PeUJ1NWNqOXB0ajBsTFNjRHZLYmlnVEdRVGcxUXdJUTVXZWFCRExndElKc3BxT2QzZw?oc=5",
+      "pub_date": "2026-08-04T07:40:52+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1UQ1VRMXlLX2lnbkIwWE44SWNlbWlEcnJlSWJoWTZVaTI2RTVBYnBaVi1YcmdmU25VYU8xUm5Cei1Gdll6TzIzMks5RU1PeUJ1NWNqOXB0ajBsTFNjRHZLYmlnVEdRVGcxUXdJUTVXZWFCRExndElKc3BxT2QzZw?oc=5\" target=\"_blank\">네오배터리머티리얼즈코리아㈜, 김제 지평선산단에 893억 원 투자 및 드론용 첨단 배터리 생산거점 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepowernews.co.kr</font>",
+      "first_seen": "2026-08-09T13:45:09.696727+00:00"
+    },
+    "CBMib0FVX3lxTE12X252UEdubF95OUJseC1iUkY1emZfaFBuNEhtX01YOEdNWTZxMmFOUUdoX1I5NTlrcHYzaU5ON2xBcGo3ZkNzTjNtVjR4Q21aNUlKQTgwR091V0ZlRlZUWXlYcklwMjdSTGlnamxaWQ": {
+      "guid": "CBMib0FVX3lxTE12X252UEdubF95OUJseC1iUkY1emZfaFBuNEhtX01YOEdNWTZxMmFOUUdoX1I5NTlrcHYzaU5ON2xBcGo3ZkNzTjNtVjR4Q21aNUlKQTgwR091V0ZlRlZUWXlYcklwMjdSTGlnamxaWQ",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약 - ynyonhapnews.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12X252UEdubF95OUJseC1iUkY1emZfaFBuNEhtX01YOEdNWTZxMmFOUUdoX1I5NTlrcHYzaU5ON2xBcGo3ZkNzTjNtVjR4Q21aNUlKQTgwR091V0ZlRlZUWXlYcklwMjdSTGlnamxaWQ?oc=5",
+      "pub_date": "2026-08-04T05:35:49+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE12X252UEdubF95OUJseC1iUkY1emZfaFBuNEhtX01YOEdNWTZxMmFOUUdoX1I5NTlrcHYzaU5ON2xBcGo3ZkNzTjNtVjR4Q21aNUlKQTgwR091V0ZlRlZUWXlYcklwMjdSTGlnamxaWQ?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 배터리 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ynyonhapnews.com</font>",
+      "first_seen": "2026-08-09T13:45:09.696727+00:00"
+    },
+    "CBMiS0FVX3lxTFA1YXBzZzdOMmwxa3FDNm8xYlJzeTZjRzMxbmxlQUdjLVBVMHJiQWJPZU8yUUtNY1QwUlpLaGhWZml3MTY5X3hwQldiTQ": {
+      "guid": "CBMiS0FVX3lxTFA1YXBzZzdOMmwxa3FDNm8xYlJzeTZjRzMxbmxlQUdjLVBVMHJiQWJPZU8yUUtNY1QwUlpLaGhWZml3MTY5X3hwQldiTQ",
+      "title": "전북도·김제시·네오배터리머티리얼즈코리아, 893억 규모 투자 협약 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1YXBzZzdOMmwxa3FDNm8xYlJzeTZjRzMxbmxlQUdjLVBVMHJiQWJPZU8yUUtNY1QwUlpLaGhWZml3MTY5X3hwQldiTQ?oc=5",
+      "pub_date": "2026-08-04T05:52:04+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1YXBzZzdOMmwxa3FDNm8xYlJzeTZjRzMxbmxlQUdjLVBVMHJiQWJPZU8yUUtNY1QwUlpLaGhWZml3MTY5X3hwQldiTQ?oc=5\" target=\"_blank\">전북도·김제시·네오배터리머티리얼즈코리아, 893억 규모 투자 협약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+      "first_seen": "2026-08-10T04:37:48.482522+00:00"
+    },
+    "CBMiYkFVX3lxTE5odlFIYWhjb1IyVmszclRYOW56WjJiblhzazVTWkhTUjB3MEw5enI2dkpIb3pXZVh3OVRlOURMTFd3d3dzYWtyRUh1NXloY29kTUZTX2l4ZmNpUm9rNkROWE5R": {
+      "guid": "CBMiYkFVX3lxTE5odlFIYWhjb1IyVmszclRYOW56WjJiblhzazVTWkhTUjB3MEw5enI2dkpIb3pXZVh3OVRlOURMTFd3d3dzYWtyRUh1NXloY29kTUZTX2l4ZmNpUm9rNkROWE5R",
+      "title": "전북도-네오배터리머티리얼즈, 고에너지·고출력 배터리 개발 맞손 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5odlFIYWhjb1IyVmszclRYOW56WjJiblhzazVTWkhTUjB3MEw5enI2dkpIb3pXZVh3OVRlOURMTFd3d3dzYWtyRUh1NXloY29kTUZTX2l4ZmNpUm9rNkROWE5R?oc=5",
+      "pub_date": "2026-08-04T04:03:23+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5odlFIYWhjb1IyVmszclRYOW56WjJiblhzazVTWkhTUjB3MEw5enI2dkpIb3pXZVh3OVRlOURMTFd3d3dzYWtyRUh1NXloY29kTUZTX2l4ZmNpUm9rNkROWE5R?oc=5\" target=\"_blank\">전북도-네오배터리머티리얼즈, 고에너지·고출력 배터리 개발 맞손</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+      "first_seen": "2026-08-10T17:51:22.674365+00:00"
+    },
+    "CBMibEFVX3lxTE1CZUwzam5Idkw2V0FhUWFiWlVncTFveGd1QWUwaVFsdG9hc2FJempZWVBvZ3JSNlFXTjk1eTdUM3dsNFUyVTRyV0IzNmFQeEJ4Mjh3QVpGT1Y5NUZFdVljOWw3Z3BoMjBNMGFVTQ": {
+      "guid": "CBMibEFVX3lxTE1CZUwzam5Idkw2V0FhUWFiWlVncTFveGd1QWUwaVFsdG9hc2FJempZWVBvZ3JSNlFXTjk1eTdUM3dsNFUyVTRyV0IzNmFQeEJ4Mjh3QVpGT1Y5NUZFdVljOWw3Z3BoMjBNMGFVTQ",
+      "title": "김제시, 네오배터리머티리얼즈코리아㈜, 투자협약 체결 김제 지평선산단에 893억 원 투자, 드론용 첨단 배터리 생산거점 구축 - 저널25방송",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CZUwzam5Idkw2V0FhUWFiWlVncTFveGd1QWUwaVFsdG9hc2FJempZWVBvZ3JSNlFXTjk1eTdUM3dsNFUyVTRyV0IzNmFQeEJ4Mjh3QVpGT1Y5NUZFdVljOWw3Z3BoMjBNMGFVTQ?oc=5",
+      "pub_date": "2026-08-05T01:18:34+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1CZUwzam5Idkw2V0FhUWFiWlVncTFveGd1QWUwaVFsdG9hc2FJempZWVBvZ3JSNlFXTjk1eTdUM3dsNFUyVTRyV0IzNmFQeEJ4Mjh3QVpGT1Y5NUZFdVljOWw3Z3BoMjBNMGFVTQ?oc=5\" target=\"_blank\">김제시, 네오배터리머티리얼즈코리아㈜, 투자협약 체결 김제 지평선산단에 893억 원 투자, 드론용 첨단 배터리 생산거점 구축</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">저널25방송</font>",
+      "first_seen": "2026-08-11T17:56:25.039464+00:00"
+    },
+    "CBMiywFBVV95cUxPa3FYNElZTlluY3otWmFJYTRQeEh3c2FiNXFRU2otVC1od3JOQ1N5SEM0a3REX1YwWUxObm5CZlJsT2VrNmdZQnVnZ1NjdTVRM0xJZzg4Z1NCVGNYdHMxanRTN2pqSVlRNHNqaGVIZnhzR0E3N1Z0VEJaUFo5bDYwVTREOXpJdXkyQXRGY05lbl9FX0dNVVdfZzhqbVN1ekxxcEFoT1h0NzBCOTl3MDUzcVR0NElWWk9taWkyREl3RHN6WEp3bWFqUTJSNA": {
+      "guid": "CBMiywFBVV95cUxPa3FYNElZTlluY3otWmFJYTRQeEh3c2FiNXFRU2otVC1od3JOQ1N5SEM0a3REX1YwWUxObm5CZlJsT2VrNmdZQnVnZ1NjdTVRM0xJZzg4Z1NCVGNYdHMxanRTN2pqSVlRNHNqaGVIZnhzR0E3N1Z0VEJaUFo5bDYwVTREOXpJdXkyQXRGY05lbl9FX0dNVVdfZzhqbVN1ekxxcEFoT1h0NzBCOTl3MDUzcVR0NElWWk9taWkyREl3RHN6WEp3bWFqUTJSNA",
+      "title": "NEO Battery Materials Raises C$4 Million in a Private Placement of Share Units - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa3FYNElZTlluY3otWmFJYTRQeEh3c2FiNXFRU2otVC1od3JOQ1N5SEM0a3REX1YwWUxObm5CZlJsT2VrNmdZQnVnZ1NjdTVRM0xJZzg4Z1NCVGNYdHMxanRTN2pqSVlRNHNqaGVIZnhzR0E3N1Z0VEJaUFo5bDYwVTREOXpJdXkyQXRGY05lbl9FX0dNVVdfZzhqbVN1ekxxcEFoT1h0NzBCOTl3MDUzcVR0NElWWk9taWkyREl3RHN6WEp3bWFqUTJSNA?oc=5",
+      "pub_date": "2026-08-14T20:24:44+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPa3FYNElZTlluY3otWmFJYTRQeEh3c2FiNXFRU2otVC1od3JOQ1N5SEM0a3REX1YwWUxObm5CZlJsT2VrNmdZQnVnZ1NjdTVRM0xJZzg4Z1NCVGNYdHMxanRTN2pqSVlRNHNqaGVIZnhzR0E3N1Z0VEJaUFo5bDYwVTREOXpJdXkyQXRGY05lbl9FX0dNVVdfZzhqbVN1ekxxcEFoT1h0NzBCOTl3MDUzcVR0NElWWk9taWkyREl3RHN6WEp3bWFqUTJSNA?oc=5\" target=\"_blank\">NEO Battery Materials Raises C$4 Million in a Private Placement of Share Units</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-08-15T11:20:29.909415+00:00"
+    },
+    "CBMizwFBVV95cUxPUExhaWpuX3VJaDJHT0F1UnpEelpyQndsTkoydE9scWd0NHZhMmd4cjgyeUZnLVNESFZDcmwwblZKa0VUN1Q2SVBLMlV2R2FKVUJ5M2w3eDcxQVA1cUxHWkNVTFZyVG5TTkNyazR2RDdjanFyRzRlQWRBek9XVjJnX184MklCMzhPMjVuV1Zvc1k0M2tDQml2akYwR0V4TW1lMmFPbjN2TTRmODY5aFNGUy1ES1JMaDNsQVAzR2dyTVRwb1h0QjNyclMxVHpLYzg": {
+      "guid": "CBMizwFBVV95cUxPUExhaWpuX3VJaDJHT0F1UnpEelpyQndsTkoydE9scWd0NHZhMmd4cjgyeUZnLVNESFZDcmwwblZKa0VUN1Q2SVBLMlV2R2FKVUJ5M2w3eDcxQVA1cUxHWkNVTFZyVG5TTkNyazR2RDdjanFyRzRlQWRBek9XVjJnX184MklCMzhPMjVuV1Zvc1k0M2tDQml2akYwR0V4TW1lMmFPbjN2TTRmODY5aFNGUy1ES1JMaDNsQVAzR2dyTVRwb1h0QjNyclMxVHpLYzg",
+      "title": "NEO Battery Materials Ltd. announced that it has received CAD 4 million in funding - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUExhaWpuX3VJaDJHT0F1UnpEelpyQndsTkoydE9scWd0NHZhMmd4cjgyeUZnLVNESFZDcmwwblZKa0VUN1Q2SVBLMlV2R2FKVUJ5M2w3eDcxQVA1cUxHWkNVTFZyVG5TTkNyazR2RDdjanFyRzRlQWRBek9XVjJnX184MklCMzhPMjVuV1Zvc1k0M2tDQml2akYwR0V4TW1lMmFPbjN2TTRmODY5aFNGUy1ES1JMaDNsQVAzR2dyTVRwb1h0QjNyclMxVHpLYzg?oc=5",
+      "pub_date": "2026-08-13T22:00:00+00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPUExhaWpuX3VJaDJHT0F1UnpEelpyQndsTkoydE9scWd0NHZhMmd4cjgyeUZnLVNESFZDcmwwblZKa0VUN1Q2SVBLMlV2R2FKVUJ5M2w3eDcxQVA1cUxHWkNVTFZyVG5TTkNyazR2RDdjanFyRzRlQWRBek9XVjJnX184MklCMzhPMjVuV1Zvc1k0M2tDQml2akYwR0V4TW1lMmFPbjN2TTRmODY5aFNGUy1ES1JMaDNsQVAzR2dyTVRwb1h0QjNyclMxVHpLYzg?oc=5\" target=\"_blank\">NEO Battery Materials Ltd. announced that it has received CAD 4 million in funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-08-15T21:18:47.656752+00:00"
     }
   }
 }
